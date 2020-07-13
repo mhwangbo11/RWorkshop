@@ -1,0 +1,48 @@
+---
+title: "LiteDataExtract_CTM_062320"
+author: "Min Hwangbo"
+date: "6/30/2020"
+output:
+  html_document:
+    preserve_yaml: true
+    toc: true
+    toc_float: true
+    keep_md: true
+published: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r 1st_Cars, echo = F, eval = F, include = F, results = 'hide', cache = T}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## Example
+
+**bold this text**
+
+*italicize this text*
+
+# Header
+
+## Subheader
+
+> Block quote
