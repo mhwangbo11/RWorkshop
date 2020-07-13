@@ -1,0 +1,155 @@
+---
+title: "DataReshape_INL_071320"
+author: "Min Hwangbo"
+date: "7/13/2020"
+output:
+  html_document:
+    preserve_yaml: true
+    toc: true
+    toc_float: true
+    keep_md: true
+published: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* Inspiration: [本橋智光, 2019](http://www.yes24.com/24/AuthorFile/Author/278360)
+* Data Source: [ECEAP Sites](https://data.wa.gov/Education/DCYF-ECEAP-Sites/8ydb-ddzd) @ Data.WA.GOV
+
+# Step 1: Load packages
+```{r, warning = F, message = F, results = "hide"}
+library("dplyr") # Data reshaping package
+library("tidyr") # Data reshaping package
+library("readr") # Reading a csv file
+```
+
+# Step 2: Preparation
+
+## Load your file & Quality Check
+Recommended to load `csv` file when possible using `readr` package and `read_csv` function.
+
+```{r}
+Original <- read_csv("ECEAPSites_DCYF_070120.csv")
+# Original file
+
+summary(Original, 5) # Summarize what this file is about
+head(Original, 5) # First 5 records
+tail(Original, 5) # Last 5 records
+ls(Original) # Vars name
+
+# 391 obs & 23 vars?
+## But if you carefully check the original data from the website, it has the name of variables: Try View(Original) on your console
+```
+
+## Change Var Names
+
+* First, we're going to copy information on the 2nd row to the 1st row as Var Names.
+* Second, we're going to delete the duplicate record.
+* Last, we will check the data quality/code accuracy.
+
+```{r}
+names(Original) <- Original[1,] # Copy 2nd row as var names
+Revision <- Original[-1,] # Delete duplicate (1st) row
+
+head(Revision, 5) # First 5 records
+tail(Revision, 5) # Last 5 records
+ls(Revision) # Vars name
+# 390 obs & 23 vars
+```
+
+# Step 3: Data Extract
+
+## Extract Certain Variables
+What if we're only interested in extracting certain variables such as:
+
+* Emergency Contact Name
+* Site Name
+* City
+* Zip Code
+* EAParticipation
+
+Let's use `select` function!
+```{r}
+ECEAP1 <- Revision %>% 
+  select("Emergency Contact Name", "Site Name", "City", "State", "Zip Code", "EAParticipation") %>% 
+as.data.frame()
+# 390 obs & 6 vars
+```
+
+Then... you probably remember we should at least check:
+
+* First five records
+* Last five records
+* Vars name
+
+```{r}
+head(ECEAP1, 5) # First 5 records
+tail(ECEAP1, 5) # Last 5 records
+ls(ECEAP1, 5)
+# Looks good!
+```
+
+## Renaming variable name
+* Some of the variable names are way too long or have spaces in between.
+* Let's change those names using `rename` function!
+* "NewName" = `CurrentVarName`
+```{r}
+ECEAP2 <- ECEAP1 %>% rename("EATF" = `EAParticipation`, "EmergencyContact" = `Emergency Contact Name`, "SiteName" = `Site Name`, "ZipCode" = `Zip Code`) # For renaming dataframe column
+# Don't forget to conduct your quality check!
+
+head(ECEAP2, 5) # First 5 records
+tail(ECEAP2, 5) # Last 5 records
+ls(ECEAP2, 5) # Vars name
+# Clear!
+```
+
+## Extract based on condition: `EATF = T/F`
+* What if we're only interested in looking at ECEAP sites who are participating in Early Achievers?
+* Let's use `filter` function!
+```{r}
+ECEAP3 <- ECEAP2 %>% 
+  filter(EATF == "Yes")
+
+# Time for quality check!
+## View data set on your console! View(ECEAP3)
+head(ECEAP3,5) # First five records
+tail(ECEAP3,5) # Last five records
+ls(ECEAP3) # Vars name
+
+# Should have equal or smaller obs!
+## 375 obs & 6 vars
+### Clear!
+```
+
+# Step 4: Split data: `Extract`
+Let's split name from `EmergencyContact` to 1) FirstName and 2) LastName
+```{r}
+ECEAP4 <- extract(ECEAP3, "EmergencyContact", c("FirstName", "LastName"), "([^ ]+) (.*)") # Still can't figure out this code - Retrieved from Stackflow
+
+# You'll notice on the Environment that now we have 7 vars!
+head(ECEAP4, 5)
+tail(ECEAP4, 5)
+ls(ECEAP4)
+```
+
+And we probably won't need TF var anymore for the final version if we think about adopting these codes for other project (i.e. CTM) 
+```{r}
+Final <- ECEAP4 %>% 
+  select("FirstName", "LastName", "City", "State", "ZipCode") %>% 
+as.data.frame()
+# Should have 5 vars
+
+head(Final, 5)
+tail(Final, 5)
+ls(Final)
+```
+
+# Step 5: Save as a CSV `write.csv`
+* FileName_ProjectName_MMDDYY(DateCreated)
+```{r}
+write.csv(Final, "EASites_ECEAP_071220")
+# Make sure to check your final csv data. 
+## R will likely generate id on the first column.
+```
