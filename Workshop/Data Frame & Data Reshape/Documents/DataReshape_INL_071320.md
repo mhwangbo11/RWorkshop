@@ -19,6 +19,8 @@ published: false
 # Step 1: Load packages
 
 ```r
+# Install packages first using install.packages("pacakgename") on your console!
+
 library("dplyr") # Data reshaping package
 library("tidyr") # Data reshaping package
 library("readr") # Reading a csv file

@@ -1555,7 +1555,9 @@ div.tocify {
 </ul>
 <div id="step-1-load-packages" class="section level1">
 <h1>Step 1: Load packages</h1>
-<pre class="r"><code>library(&quot;dplyr&quot;) # Data reshaping package
+<pre class="r"><code># Install packages first using install.packages(&quot;pacakgename&quot;) on your console!
+
+library(&quot;dplyr&quot;) # Data reshaping package
 library(&quot;tidyr&quot;) # Data reshaping package
 library(&quot;readr&quot;) # Reading a csv file</code></pre>
 </div>
@@ -1761,7 +1763,7 @@ as.data.frame()
 <li>“NewName” = <code>CurrentVarName</code></li>
 </ul>
 <pre class="r"><code>ECEAP2 &lt;- ECEAP1 %&gt;% rename(&quot;EATF&quot; = `EAParticipation`, &quot;EmergencyContact&quot; = `Emergency Contact Name`, &quot;SiteName&quot; = `Site Name`, &quot;ZipCode&quot; = `Zip Code`) # For renaming dataframe column
-# Don't forget to conduct your quality check!
+# Don&#39;t forget to conduct your quality check!
 
 head(ECEAP2, 5) # First 5 records</code></pre>
 <pre><code>##   EmergencyContact                        SiteName       City State ZipCode
@@ -1842,9 +1844,9 @@ head(ECEAP3,5) # First five records</code></pre>
 <div id="step-4-split-data-extract" class="section level1">
 <h1>Step 4: Split data: <code>Extract</code></h1>
 <p>Let’s split name from <code>EmergencyContact</code> to 1) FirstName and 2) LastName</p>
-<pre class="r"><code>ECEAP4 &lt;- extract(ECEAP3, &quot;EmergencyContact&quot;, c(&quot;FirstName&quot;, &quot;LastName&quot;), &quot;([^ ]+) (.*)&quot;) # Still can't figure out this code - Retrieved from Stackflow
+<pre class="r"><code>ECEAP4 &lt;- extract(ECEAP3, &quot;EmergencyContact&quot;, c(&quot;FirstName&quot;, &quot;LastName&quot;), &quot;([^ ]+) (.*)&quot;) # Still can&#39;t figure out this code - Retrieved from Stackflow
 
-# You'll notice on the Environment that now we have 7 vars!
+# You&#39;ll notice on the Environment that now we have 7 vars!
 head(ECEAP4, 5)</code></pre>
 <pre><code>##   FirstName  LastName                        SiteName       City State ZipCode
 ## 1      &lt;NA&gt;      &lt;NA&gt;                            &lt;NA&gt;       &lt;NA&gt;    WA   99207

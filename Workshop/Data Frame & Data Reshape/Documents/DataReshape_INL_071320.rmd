@@ -20,6 +20,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Step 1: Load packages
 ```{r, warning = F, message = F, results = "hide"}
+# Install packages first using install.packages("pacakgename") on your console!
+
 library("dplyr") # Data reshaping package
 library("tidyr") # Data reshaping package
 library("readr") # Reading a csv file
