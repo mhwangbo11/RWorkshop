@@ -1,0 +1,1133 @@
+﻿Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q18,Q19,Q20,Q21,Q22,Q23
+SiteOrganizationId,Site Name,Alternate Name for the Site,SubContractorOrganizationId,ECEAP Subcontractor Name,ContractorOrganizationId,ECEAP Contractor Name,Facility Type,Line 1 Address,City,State,Zip Code,County,Enrollment Phone Number,Emergency Contact Name,Emergency Contact Email,Emergency Contact Phone,Alternate Phone,Total Funded Slots,Minimum Age of ECEAP Children in Months,Maximum Age of ECEAP Children in Months,GeoCodedPhysicalAddress,EAParticipation
+"2,039",,,2038,,"2,028",Early Learning Child Development Resources,Family Child Care Home,,,WA,99207,Spokane,,,,,,9,36,69,,Yes
+"1,443",Birches,Birches ECEAP,,Direct Service Site,30,Opportunity Council,Non-Profit Organization Building,3328 McAlpine Rd,Bellingham,WA,98225,Whatcom,3607389333,Tami Thomsen,tami_thomsen@oppco.org,3607389333,,18,36,69,"3328 McAlpine Rd
+Bellingham, WA 98225
+(48.775188, -122.523473)",Yes
+303,Oroville ECEAP,Oroville ECEAP,,Direct Service Site,27,Okanogan County Child Development Assn.,Head Start Facility,1114 Main Street,Oroville,WA,98844,Okanogan,5098262466,Tauni Allen,tallen@occda.net,5094762171,,18,36,69,"1114 Main Street
+Oroville, WA 98844
+(48.9355, -119.436987)",Yes
+"2,320",ChildStrive,,2303,ChildStrive,36,Snohomish County,Non-Profit Organization Building,14 E Casino Road,Everett,WA,98208,Snohomish,4253535656,Deb Walrath,deb.walrath@childstrive.org,4252452565,,40,36,69,"14 E Casino Road
+Everett, WA 98208
+(47.921907, -122.232443)",Yes
+387,Wapato Child Development Center,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,607 3rd Ave,Wapato,WA,98951,Yakima,5098773092,Toni Gutierrez,antonia.gutierrez@inspire-centers.org,5099732545,,40,36,69,"607 3rd Ave
+Wapato, WA 98951",Yes
+"1,492",Green Gable Childrens Learning Center North,,1489,Green Gable Childrens Learning Center North,12,ESD 101 - NEW ESD,Child Care Center Including Campus Child Care,415 E Holland Ave,Spokane,WA,99218,Spokane,5093232720,Rebecca Lee,greengable.rebecca@gmail.com,5094556110,,30,36,69,"415 E Holland Ave
+Spokane, WA 99218
+(47.744003, -117.404781)",Yes
+202,Elma School District,Elma Elementary,57,Elma School District,2,Aberdeen School District,Public school or school district building,1235 Monte Elma Rd,Elma,WA,98541,Grays Harbor,3605377403,Stacey Rockey,srockey@eagles.edu,3604821123,,16,36,69,"1235 Monte Elma Rd
+Elma, WA 98541
+(47.003033, -123.434102)",Yes
+"2,236",Tonasket ECEAP,,,Direct Service Site,27,Okanogan County Child Development Assn.,Non-Profit Organization Building,114 Locust Street,Tonasket,WA,98855,Okanogan,5098262466,Brenda Aparicio,baparicio@occda.net,5094864541,,29,36,69,"114 Locust Street
+Tonasket, WA 98855
+(47.810058, -119.645087)",Yes
+"2,293",Tacoma Stafford Elementary ECEAP,,120,Tacoma School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,1615 South 92nd St.,Tacoma,WA,98444,Pierce,2535712620,Michelle Rahl-Lewis,mlewis1@tacoma.k12.wa.us,2535712615,,38,36,69,"1615 South 92nd St
+Tacoma, WA 98444
+(47.173797, -122.455578)",Yes
+300,North Omak Elementary School,Omak ECEAP,,Direct Service Site,29,Omak School District,Public school or school district building,615 North Oak Street,Omak,WA,98841,Okanogan,5098262380,Shari Marcial,smarcial@omaksd.org,5098268139,,57,36,69,"615 North Oak Street
+Omak, WA 98841
+(48.416488, -119.516784)",Yes
+"1,956",Darrington School District,,1955,Darrington School District,36,Snohomish County,Public school or school district building,1075 Fir St.,Darrington,WA,98241,Snohomish,3604361313,Geneen Cabe,gcabe@dsd.k12.wa.us,3603331813,,20,36,69,"1075 Fir St
+Darrington, WA 98241
+(48.248011, -121.60179)",Yes
+604,Trentwood Elementary,,55,East Valley School District,8,Community Colleges of Spokane,Public school or school district building,E. 14701 Wellesley Ave.,Spokane Valley,WA,99216,Spokane,5098934123,Karen  Cloninger,cloningerk@evsd.org,5092415045,,36,36,69,"14701 Wellesley Ave
+Spokane Valley, WA 99216
+(47.700476, -117.207111)",Yes
+246,Josephine Caring Community,Josephine Caring Community,69,Josephine Sunset Home,36,Snohomish County,Child Care Center Including Campus Child Care,9901 272ND PLACE NW,STANWOOD,WA,98292,Snohomish,3603863223,Linda Alumbaugh,linda.alumbaugh@josephinenet.com,3603863223,3604206937,40,36,69,"9901 272ND PLACE NW
+STANWOOD, WA 98292
+(48.243606, -122.367256)",Yes
+402,EWU Children's Center,,135,YMCA of Spokane,8,Community Colleges of Spokane,Child Care Center Including Campus Child Care,923 WASHINGTON STREET,CHENEY,WA,99004,Spokane,5093592023,Anna  Culwell,ACulwell@ymcaspokane.org,5093592023,,44,36,69,"923 WASHINGTON STREET
+CHENEY, WA 99004
+(47.487065, -117.586346)",Yes
+"2,298",Mead ELC at Midway,,,Direct Service Site,12,ESD 101 - NEW ESD,Public school or school district building,821 E Midway Road,Colbert,WA,99005,Spokane,5098479779,Kelli Jo Timberlake,kellie.timberlake@mead354.org,5094656732,,49,36,69,"821 E Midway Road
+Colbert, WA 99005
+(47.809121, -117.396245)",Yes
+323,Quincy Child Development Center,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,310 H Street SW,Quincy,WA,98848,Grant,5097872511,Imelda Mendoza,imelda.mendoza@inspire-centers.org,5097872511,,60,36,69,"310 H Street SW
+Quincy, WA 98848
+(47.232115, -119.859716)",Yes
+"1,993",Southwest Early Learning (SWEL),,1992,Sound Child Care Solutions,6,City of Seattle ,Non-Profit Organization Building,5405 Delridge Way SW,Seattle,WA,98106,King,2067676896,Karina Rojas-Rodriguez,krojas@soundchild.org,2069132980,,10,36,69,"5405 Delridge Way SW
+Seattle, WA 98106
+(47.553423, -122.362976)",Yes
+"1,987",,,1985,,17,ESD 121 - Puget Sound ESD,Family Child Care Home,,,WA,98030,King,,,,,,4,36,69,,Yes
+"2,105",Federal Way Sherwood Forest ECEAP,Sherwood Forest Elementary,64,Federal Way School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,34600 12th Ave SW,Federal Way,WA,98023,King,2539453862,Cynthia Aldrich,caldrich@fwps.org,2539453630,,20,36,69,"34600 12th Ave SW
+Federal Way, WA 98023
+(47.291857, -122.350797)",Yes
+301,Orient ECEAP,Orient Elementary,,Direct Service Site,12,ESD 101 - NEW ESD,Public school or school district building,374 4th Avenue,Orient,WA,99160,Ferry,5086846873,Sherry Cowbrough,sherry.bowbrough@orientsd.org,5096846873,,6,36,69,"374 4th Avenue
+Orient, WA 99160
+(48.868039, -118.205433)",No
+"2,215",Woodland Primary,,,Direct Service Site,14,ESD 112 - Vancouver,Public school or school district building,600 Bozarth Ave,Woodland,WA,98674,Cowlitz,3609523466,Marissa Ellis,marissa.ellis@esd112.org,3609523531,,15,36,69,"600 Bozarth Ave
+Woodland, WA 98674
+(45.901848, -122.753498)",Yes
+383,Peninsula Vaughn Elementary ECEAP,Vaughn Elementary ECEAP,98,Peninsula School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,"17521 Hall Rd, KPN",Vaughn,WA,98394,Pierce,2535304761,Caren Halvorsen,halvorsenc@psd401.net,2535304761,,18,36,69,"17521 Hall Rd
+KPN Vaughn, WA 98394",Yes
+265,Lopez Childrens Center,,79,Lopez Cooperative Preschool,33,San Juan County ECEAP,Child Care Center Including Campus Child Care,160 VILLAGE ROAD,LOPEZ ISLAND,WA,98261,San Juan,3603700593,Jane Hobbs,lopezchildren@rockisland.com,3604683896,,11,36,69,"160 VILLAGE ROAD
+LOPEZ ISLAND, WA 98261
+(48.524948, -122.912129)",Yes
+"1,588",Amistad,,,Direct Service Site,20,Kennewick School District,Public school or school district building,930 W. 4th Ave,Kennewick,WA,99336,Benton,5092225027,Linda Crowner,linda.crowner@ksd.org,5092226470,,238,36,69,"930 W 4th Ave
+Kennewick, WA 99336
+(46.20573, -119.132069)",Yes
+"2,313",YMCA of Grays Harbor Oakville Preschool,Oakville Preschool,2253,YMCA of Grays Harbor,15,ESD 113 - Sound to Harbor Early Learning Programs,Public school or school district building,206 School St,Oakville,WA,98568,Grays Harbor,3605379622,Allegra Hood,ahood@ghymca.net,3605379622x134,,7,36,69,"206 School St
+Oakville, WA 98568
+(46.839554, -123.239893)",Yes
+"2,314",YMCA of Grays Harbor at Pacific Beach Elementary,Pacific Beach,2253,YMCA of Grays Harbor,15,ESD 113 - Sound to Harbor Early Learning Programs,Public school or school district building,11 4th St. S,Pacific Beach,WA,98571,Grays Harbor,3605379622,Allegra Hood,ahood@ghymca.net,3605379622x134,,9,36,69,"11 4th St S
+Pacific Beach, WA 98571
+(47.208292, -124.200128)",Yes
+"2,371",CCAC Early Learning Center at Family Partnership Ctr,CCAC at FPC,2369,CCAC,15,ESD 113 - Sound to Harbor Early Learning Programs,Non-Profit Organization Building,300 Sleater-Kinney Rd. NE,Olympia,WA,98516,Thurston,3604124893,Elizabeth Schilling,beth.schilling@ccacwa.org,3607424352,,72,36,69,"300 Sleater-Kinney Rd NE
+Olympia, WA 98516
+(47.050239, -122.833663)",Yes
+"2,222",Harrington ECEAP,,2221,Harrington School District,12,ESD 101 - NEW ESD,Public school or school district building,100 South 1st Street,Harrington,WA,99134,Lincoln,5093232720,Tiffany Clouse,tclouse@harringtonsd.org,5092534331,,14,36,69,"100 South 1st Street
+Harrington, WA 99134
+(47.479808, -118.251457)",Yes
+"2,198",The Lighthouse Early Learning & Development Center,,2197,The Lighthouse,17,ESD 121 - Puget Sound ESD,Non-Profit Organization Building,100 N ST SE,Auburn,WA,98002,King,2539390870,Megan Palmer,meganpalmer@thelighthouseldc.com,2539390870,,18,36,69,"100 N ST SE
+Auburn, WA 98002
+(47.306969, -122.211987)",Yes
+"1,495",Highpoint,,,Direct Service Site,711,Neighborhood House,Non-Profit Organization Building,6400 Sylvan Way SW,Seattle,WA,98126,King,2064618430,Stacey Holmes,staceyh@nhwa.org,2069143017,,40,36,69,"6400 Sylvan Way SW
+Seattle, WA 98126
+(47.544584, -122.372092)",Yes
+248,Keewaydin,,,Direct Service Site,20,Kennewick School District,Public school or school district building,125 Conway St.,Kennewick,WA,99336,Benton,5092225027,Linda Crowner,linda.crowner@ksd.org,5092226470,,64,36,69,"125 Conway St
+Kennewick, WA 99336
+(46.210624, -119.155499)",Yes
+"1,954",La Conner,Susan Wilbur Early Education Center,1953,La Conner,"1,948",Skagit Valley College Head Start & ECEAP,Tribal Organization building,17275 Reservation Road,La Conner,WA,98257,Skagit,3604167590,John Haley,jhaley@lc.k12.wa.us,3603915920,,23,36,69,"17275 Reservation Road La
+Conner, WA 98257
+(48.395061, -122.500708)",Yes
+158,Brewster School District,,,Direct Service Site,11,Enterprise for Progress in the Community,Public school or school district building,502 South 7th Street,Brewster,WA,98812,Okanogan,5096892581x754,Alisha Garcia,alishag@epicnet.org,5096892581,,38,36,69,"502 South 7th Street
+Brewster, WA 98812
+(48.09427, -119.786823)",Yes
+"1,453",Bates Eastside ECEAP,,43,Bates Technical College,17,ESD 121 - Puget Sound ESD,Faith-Based Facility,3575 East Portland Ave,Tacoma,WA,98404,Pierce,2536807330,Cynthia Covarrubias,cycovarrubias@batestech.edu,2536807330,,20,36,69,"3575 East Portland Ave
+Tacoma, WA 98404
+(47.227232, -122.407844)",Yes
+331,Ritzville ECEAP,,107,Ritzville ECEAP,12,ESD 101 - NEW ESD,Public school or school district building,401 E 6th Ave,Ritzville,WA,99169,Adams,5096590232,Cindy Deska,cdeska@lrschools.org,5096590232,,11,36,69,"401 E 6th Ave
+Ritzville, WA 99169
+(47.12628, -118.370979)",Yes
+"2,427",Skykomish ECEAP,,2425,Skykomish School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,105 6th Street North,Skykomish,WA,98288,King,3606772623,Allison  Luker,aluker@skykomish.wednet.edu,3606772623x233,,4,36,69,"105 6th Street North
+Skykomish, WA 98288
+(47.709298, -121.361958)",No
+366,Sunnyside Child Development Center,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,1751 Washington Court,Sunnyside,WA,98944,Yakima,5098376015,Yesenia Sanchez,yesenia.sanchez@inspire-centers.org,5098378909,,40,36,69,"1751 Washington Court
+Sunnyside, WA 98944
+(46.310011, -120.026798)",Yes
+217,Bates Fife/Milton ECEAP,@ Mission Woods Church,43,Bates Technical College,17,ESD 121 - Puget Sound ESD,Faith-Based Facility,2003 Taylor St,Milton,WA,98354,Pierce,2539262423,Maoua Kone,mkone@batestech.edu,2536807547,,40,36,69,"2003 Taylor St
+Milton, WA 98354
+(47.242867, -122.30759)",Yes
+309,Pasco 2 Child Development Center,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,1010 S 6th Ave,Pasco,WA,99301,Franklin,5095469971,Rebecca Badoux,rebecca.badoux@inspire-centers.org,5098378909,,58,36,69,"1010 S 6th Ave
+Pasco, WA 99301
+(46.222832, -119.094672)",Yes
+"1,406",ZAC,,,Direct Service Site,10,Educational Opportunities for Children and Families,Public school or school district building,841 NE 22nd Ave,Camas,WA,98607,Clark,3605672729,Jessica Coffman,jessica.coffman@eocfwa.org,3608969912,,18,36,69,"841 NE 22nd Ave
+Camas, WA 98607
+(45.59541, -122.399634)",Yes
+"2,347",Carson,,,Direct Service Site,26,Mid-Columbia Children's Council,Non-Profit Organization Building,441 Hot Springs Ave,Carson,WA,98610,Skamania,5413862010,Traci Kessinger,tracikessinger@mcccheadstart.org,5097741114,,10,36,69,"441 Hot Springs Ave
+Carson, WA 98610
+(45.72602, -121.811368)",Yes
+"2,264",Auburn Lea Hill,,673,Auburn School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,30908 124th Ave SE,Auburn,WA,98092,King,2537354710,Cassandra Lewis,clewis@auburn.wednet.edu,2537354710,,38,36,69,"30908 124th Ave SE
+Auburn, WA 98092
+(47.325268, -122.176407)",Yes
+307,KYFS Panther Lake ECEAP,Panther Lake Community Church,71,Kent Youth And Family Service,17,ESD 121 - Puget Sound ESD,Faith-Based Facility,10630 SE 204TH ST,Kent,WA,98031,King,2538528005,Denise Vance,denisev@kyfs.org,2538528005,,40,36,69,"10630 SE 204TH ST
+Kent, WA 98031
+(47.419466, -122.19748)",Yes
+"2,409",White Center Heights,,,Direct Service Site,"2,340",Voices of Tomorrow,Public school or school district building,10015 6th Ave SW,Seattle,WA,98146,King,2064661229,Shelby Lux,slux@tomorrowvoices.org,2064661229x303,,20,36,69,"10015 6th Ave SW
+Seattle, WA 98146
+(47.513015, -122.342337)",No
+693,EPS Lowell,,62,Everett Public Schools,36,Snohomish County,Public school or school district building,5010 View Drive,Everett,WA,98203,Snohomish,4253855320,Skylar Saga,ssaga@everettsd.org,4253855320,,80,36,69,"5010 View Drive
+Everett, WA 98203
+(47.951038, -122.201446)",Yes
+"2,403",Fircrest Early Learning Classroom,,,Direct Service Site,10,Educational Opportunities for Children and Families,Public school or school district building,12001 NE 9th Street,Vancouver,WA,98684,Clark,3605672720,Niira Krupnick,niira.krupnick@eocfwa.org,3608969912,,32,36,69,"12001 NE 9th Street
+Vancouver, WA 98684
+(45.628318, -122.549565)",Yes
+"1,373",Tiny Tots Development Center - Main,Caterpillar,125,Tiny Tots Development Center,6,City of Seattle ,Child Care Center Including Campus Child Care,8302 1/2 Renton ave S,SEATTLE,WA,98118,King,2067231590,Patricia Scarberry,pscarberry@tinytotsdc.org,2067603200x132,,39,36,69,"8302 1 2 Renton ave S
+SEATTLE, WA 98118
+(47.528976, -122.278103)",Yes
+381,Upper Skagit Tribe,Upper Skagit Child Development Center,128,Upper Skagit Child Development,36,Snohomish County,Tribal Organization building,25782 COYOTE DRIVE,SEDRO WOOLLEY,WA,98284,Skagit,3608547056,Laura Waukechon-Factor,lauraw@upperskagit.com,3608547092,,16,36,69,"25782 COYOTE DRIVE
+SEDRO WOOLLEY, WA 98284
+(48.540525, -122.187449)",Yes
+"2,373",Learning to Grow Preschool,,2372,Learning to Grow Preschool,15,ESD 113 - Sound to Harbor Early Learning Programs,Non-Profit Organization Building,502 E Young Street,Elma,WA,98541,Grays Harbor,3604823201,Stephanie Smith,stephanies.learningtogrow@gmail.com,3604823201,,34,36,69,"502 E Young Street
+Elma, WA 98541
+(47.00579, -123.392489)",Yes
+"1,369",Hough Early Learning Center,,,Direct Service Site,14,ESD 112 - Vancouver,Non-Profit Organization Building,1801 Esther Street,Vancouver,WA,98660,Clark,3607507500,Heather  Anderson,heather.anderson@selfwa.org,3609523410,,71,36,69,"1801 Esther Street
+Vancouver, WA 98660
+(45.635116, -122.675892)",Yes
+"2,246",Lake Stevens Early Learning Center,Lake Stevens ECEAP,74,Lake Stevens School District,36,Snohomish County,Public school or school district building,9215 29th St NE,Lake Stevens,WA,98258,Snohomish,4253351643,Matt Wyant,matt_wyant@lkstevens.wednet.edu,4253351643,,100,36,69,"9215 29th St NE
+Lake Stevens, WA 98258
+(48.022314, -122.10266)",Yes
+145,Barge Lincoln (YSD),,134,Yakima School District,11,Enterprise for Progress in the Community,Public school or school district building,219 E. I Street,Yakima,WA,98901,Yakima,5095735260,Crystal Ancell,ancell.crystal@yakimaschools.org,5095735257,,36,36,69,"219 E I Street
+Yakima, WA 98901
+(46.614328, -120.508613)",Yes
+"2,402",Burton Early Learning Classroom,Burton Elemetary,,Direct Service Site,10,Educational Opportunities for Children and Families,Public school or school district building,14015 NE 28th Street,Vancouver,WA,98682,Clark,3605672720,Niira Krupnick,niira.krupnick@eocfwa.org,3608969912,,34,36,69,"14015 NE 28th Street
+Vancouver, WA 98682
+(45.642967, -122.527444)",Yes
+"2,408",Denise Louie Education Center Magnuson Park,,,Direct Service Site,"2,338",Denise Louie Education Center,Non-Profit Organization Building,7101 62nd Ave NE,Seattle,WA,98115,King,2067678223,Vivien Koo,vkoo@deniselouie.org,2067678223,,13,36,69,"7101 62nd Ave NE
+Seattle, WA 98115
+(47.680574, -122.262206)",Yes
+606,Renton Meadow Crest Early Learning Center,1800 Index Ave. NE Renton 98056,106,Renton School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,1800 Index Avenue NE,Renton,WA,98056,King,4252042500,Vickie Warren,verline.warren@rentonschools.us,4252042212,4252042500,76,36,69,"1800 Index Avenue NE
+Renton, WA 98056
+(47.508087, -122.181899)",Yes
+"1,371",SWCCC IMAGE DCC,,,Direct Service Site,14,ESD 112 - Vancouver,Child Care Center Including Campus Child Care,4400 NE 122ND AVENUE,VANCOUVER,WA,98662,Clark,3607507500,,,,,52,36,69,"4400 NE 122ND AVENUE
+VANCOUVER, WA 98662
+(45.654233, -122.547604)",Yes
+237,Highline Valley View Early Learning Center,,67,Highline School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,17622 46th Ave S,Seatac,WA,98188,King,2066315108,Mackenzie Pochepan,Mackenzie.Pochepan@highlineschools.org,2066315100,,180,36,69,"17622 46th Ave S
+Seatac, WA 98188
+(47.444819, -122.275856)",Yes
+"1,586",Mukilteo ECEAP,,87,Mukilteo School District,36,Snohomish County,Other,"3616 South Road, Suite C4",Mukilteo,WA,98275,Snohomish,4253561312,Kim Parker,parkerkd@mukilteo.wednet.edu,4253561312,,160,36,69,"3616 South Road
+Mukilteo, WA 98275
+(47.883122, -122.284375)",Yes
+"2,022",Robert Lince Early Learning Center,RL Early Learning Center,,Direct Service Site,34,Selah School District,Public school or school district building,308 W. Naches Ave.,Selah,WA,98942,Yakima,5096988023,Mary Nelson,marynelson@selahschools.org,5096988026,,75,36,69,"308 W Naches Ave
+Selah, WA 98942
+(46.654033, -120.533163)",Yes
+"2,370",CCAC Early Learning Center at Shelton,CCAC at Shelton,2369,CCAC,15,ESD 113 - Sound to Harbor Early Learning Programs,Non-Profit Organization Building,2412 Railroad Ave,Shelton,WA,98584,Mason,3604262898,Elizabeth Schilling,beth.schilling@ccacwa.org,3607424352,,90,36,69,"2412 Railroad Ave
+Shelton, WA 98584
+(47.207989, -123.125922)",Yes
+358,Stevens Elementary,,116,Spokane Public Schools,8,Community Colleges of Spokane,Public school or school district building,1717 E Sinto Ave,Spokane,WA,99202,Spokane,5093544180,CC  Parker,ccp@spokaneschools.org,5093544221,,40,36,69,"1717 E Sinto Ave
+Spokane, WA 99202
+(47.670663, -117.384157)",Yes
+"1,445",Columbia Burbank,,,Direct Service Site,"1,364",ESD 123,Public school or school district building,977 Maple Street,Burbank,WA,99323,Walla Walla,5095445755,Tammy Moody,tmoody@esd123.org,5093802812,,18,36,69,"977 Maple Street
+Burbank, WA 99323
+(46.200832, -119.010164)",Yes
+304,PCHS Orting ECEAP,PCHS Orting,99,Pierce County Human Services,17,ESD 121 - Puget Sound ESD,Public school or school district building,203 Cardinal Lane NE,Orting,WA,98360,Pierce,3608936767,Mercedes Johnson,mercedes.johnson@piercecountywa.gov,3608936767,,40,36,69,"203 Cardinal Lane NE
+Orting, WA 98360
+(47.101997, -122.206816)",Yes
+"2,397",Bethel Naches Trail,,44,Bethel School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,15305 Waller Road East,Tacoma,WA,98446,Pierce,2536838700,Delaney Johnson,dljohnson@bethelsd.org,2538008785,,54,36,69,"15305 Waller Road East
+Tacoma, WA 98446
+(47.116703, -122.389153)",No
+"1,399",McKenzie,,,Direct Service Site,10,Educational Opportunities for Children and Families,Public school or school district building,14300 NE 18th Street,Vancouver,WA,98684,Clark,3605672720,Dana Taub,dana.taub@eocfwa.org,3605671701,,18,36,69,"14300 NE 18th Street
+Vancouver, WA 98684
+(45.635676, -122.524874)",Yes
+225,Inspire Development Centers - Grandview,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,1005 Grandridge Rd,Grandview,WA,98930,Yakima,5098822444,Laura Ortiz,laura.ortiz@inspire-centers.org,5098822444,,40,36,69,"1005 Grandridge Rd
+Grandview, WA 98930
+(46.245728, -119.904969)",Yes
+"2,286",KYFS Daniel Elementary ECEAP,Daniel Elementary,71,Kent Youth And Family Service,17,ESD 121 - Puget Sound ESD,Public school or school district building,11310 SE 248TH ST,Kent,WA,98030,King,2536309590,Danielle  Berry,DanielleB@kyfs.org,2536309590x131,,80,36,69,"11310 SE 248TH ST
+Kent, WA 98030
+(47.379697, -122.191281)",Yes
+"2,399",Sunset Elementary,,2204,Cheney School District,8,Community Colleges of Spokane,Public school or school district building,12824 W 12th Avenue,Airway Heights,WA,99001,Spokane,5095594828,Emma Noble,enoble@cheneysd.org,5095594507,,24,36,69,"12824 W 12th Avenue
+Airway Heights, WA 99001
+(47.644759, -117.589183)",No
+395,Willapa Elementary,,132,Willapa Valley School District,37,South Bend School District,Public school or school district building,22 Viking Way,Menlo,WA,98561,Pacific,3609423311,Lori Snodgrass,loris@willapavalley.org,3609423311,,16,36,69,"22 Viking Way
+Menlo, WA 98561
+(46.624568, -123.650924)",Yes
+"2,100",Marysville ECEAP,,83,Marysville School District,36,Snohomish County,Public school or school district building,7622 44th Ave NE,Marysville,WA,98270,Snohomish,3609650225,JoAnn Moffitt,JoAnn_Moffitt@msvl.k12.wa.us,3609650234,,208,36,69,"7622 44th Ave NE
+Marysville, WA 98270
+(48.066736, -122.171807)",Yes
+306,Palouse,,96,Palouse School District,7,Community Child Care Center,Public school or school district building,600 E Alder,Palouse,WA,99161,Whitman,5093349290,Calvin  Johnson,cjohnson@garpal.wednet.edu,5098781675,,4,36,69,"600 E Alder
+Palouse, WA 99161
+(46.912216, -117.071484)",Yes
+"2,181",Enumclaw J J Smith ECEAP,Birth to Five Center at JJ Smith Campus,60,Enumclaw School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,1640 Fell Street,Enumclaw,WA,98022,King,3608027881,Garie Sender,garie_sender@enumclaw.wednet.edu,3608027881,,74,36,69,"1640 Fell Street
+Enumclaw, WA 98022
+(47.206076, -121.993892)",Yes
+296,Ocean Beach Early Childhood Center,,,Direct Service Site,14,ESD 112 - Vancouver,Public school or school district building,305 5th Street Se,Long Beach,WA,98631,Pacific,3607507500x342,Rachel Fitch,rachel.fitch@esd112.org,3606424089x802,,13,36,69,"305 5th Street Se
+Long Beach, WA 98631
+(46.348937, -124.053771)",Yes
+600,Federal Way Star Lake ECEAP,Star Lake Elementary,64,Federal Way School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,4014 S 270th Street,Kent,WA,98032,King,2539454076,Jennifer Montufar,jmontufar@fwps.org,2539455871,,58,36,69,"4014 S 270th Street
+Kent, WA 98032
+(47.359653, -122.283136)",Yes
+378,Toppenish Child Development Center,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,1200 Jackson,Toppenish,WA,98948,Yakima,5098652865,Erika Roman De Vasquez,erika.vasquez@inspirecenters.org,5098652865,,40,36,69,"1200 Jackson
+Toppenish, WA 98948
+(46.379388, -120.325172)",Yes
+181,Cosmopolis School District,Cosmopolis School District,53,Cosmopolis School District,2,Aberdeen School District,Public school or school district building,1439 4th St,Cosmopolis,WA,98537,Grays Harbor,3605377403,Cherie Patterson,cpatterson@cosmopolisschool.com,3605327181,,4,36,69,"1439 4th St
+Cosmopolis, WA 98537
+(46.952034, -123.771587)",Yes
+"2,406",Tukwila,Say Tuun,,Direct Service Site,"2,340",Voices of Tomorrow,Public school or school district building,4415 S 150TH ST,Tukwila,WA,98188,King,2065312856,Shelby Lux,slux@tomorrowvoices.org,2064661229x303,,40,36,69,"4415 S 150TH ST
+Tukwila, WA 98188
+(47.468696, -122.276636)",Yes
+"2,289",Highline Beverly Park,Highline Beverly Park ECEAP,67,Highline School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,1201 S 104th Street,Seattle,WA,98168,King,2066313458,Camisa Malmanger,Camisa.Malmanger@highlineschools.org,2066313458,,38,36,69,"1201 S 104th Street
+Seattle, WA 98168
+(47.51035, -122.318327)",Yes
+325,Raymond School District,,103,Raymond School Distrtict,37,South Bend School District,Public school or school district building,1016 E Commercial Street,Raymond,WA,98577,Pacific,3609422435,Michael Scott,mscott@raymondk12.org,3609422435,,25,36,69,"1016 E Commercial Street
+Raymond, WA 98577
+(46.685647, -123.724017)",Yes
+332,Chattaroy Elementary,,108,Riverside School District ,8,Community Colleges of Spokane,Public school or school district building,25717 N Yale,Chattaroy,WA,99003,Spokane,5094648270,Travis  Cross,travis.cross@rsdmail.org,5094648252,,51,36,69,"25717 N Yale
+Chattaroy, WA 99003
+(47.892169, -117.357695)",Yes
+"2,381",Midway ECEAP,,,Direct Service Site,"1,364",ESD 123,Public school or school district building,502 S C Street,Moses Lake,WA,98837,Grant,5095445767,Nancy Aguilar,naguilar@esd123.org,5093804923,,37,36,69,"502 S C Street
+Moses Lake, WA 98837
+(47.120167, -119.29081)",Yes
+337,Rosalia,,110,Rosalia School District,7,Community Child Care Center,Public school or school district building,916 S Josephine,Rosalia,WA,99170,Whitman,5093349290,Darrell Khun,dkhun@rosalia.wednet.edu,5095233061,,10,36,69,"916 S Josephine
+Rosalia, WA 99170
+(47.231686, -117.368795)",Yes
+223,Givens Community Center,,,Direct Service Site,16,ESD 114 - Olympic ESD,Local Government building,1026 Sidney Ave,Port Orchard,WA,98366,Kitsap,3604786889,Kerry Christofferson,kchristofferson@oesd114.org,3603374899,,36,36,69,"1026 Sidney Ave
+Port Orchard, WA 98366
+(47.533426, -122.636413)",Yes
+185,Davenport ECEAP,,,Direct Service Site,12,ESD 101 - NEW ESD,Public school or school district building,601 Washington St,Davenport,WA,99122,Lincoln,5097251261x3300,Courtney Strozyk,coustrozyk@davenport.wednet.edu,5097251261,,13,36,69,"601 Washington St
+Davenport, WA 99122
+(47.649204, -118.149818)",Yes
+224,Goldendale,,,Direct Service Site,26,Mid-Columbia Children's Council,Head Start Facility,920 SOUTH SCHUSTER,GOLDENDALE,WA,98620,Klickitat,5413862010x218,Ellen Lund,ellenlund@mcccheadstart.org,5097741114,,38,36,69,"920 SOUTH SCHUSTER
+GOLDENDALE, WA 98620",Yes
+198,Experimental Education Unit U of W,Haring Center,63,Experimental Education Unit-U of W,6,City of Seattle ,College/University - not child care,1959 N E Pacific St,Seattle,WA,98195,King,2062212910,Angela Erickson,aericks@uw.edu,2062215589,,18,36,69,"1959 N E Pacific St
+Seattle, WA 98195
+(47.650506, -122.307482)",Yes
+"1,942",Onalaska,,1940,Onalaska School District,4,Centralia College,Public school or school district building,220 Sixth St. W,Onalaska,WA,98570,Lewis,3606238597,Jeff Davis,jdavis@onysd.wed.edu,3609784111,,27,36,69,"220 Sixth St W
+Onalaska, WA 98570
+(46.582386, -122.720722)",Yes
+"2,042",,,2037,,"2,028",Early Learning Child Development Resources,Family Child Care Home,,,WA,99207,Spokane,,,,,,9,36,69,,Yes
+311,Pe Ell,Pe Ell,97,Pe Ell School District,4,Centralia College,Public school or school district building,519 North 2nd Street,Pe Ell,WA,98572,Lewis,3606238950,Kyle MacDonald,kmacdonald@peell.k12.wa.us,3602913244,,9,36,69,"519 North 2nd Street
+Pe Ell, WA 98572
+(46.574447, -123.298923)",Yes
+"2,250",SQUAXIN ISLAND CDC,,2249,"Squaxin Island Child Development Center, Inc.",15,ESD 113 - Sound to Harbor Early Learning Programs,Tribal Organization building,3851 SE OLD OLYMPIC HWY,SHELTON,WA,98584,Mason,3604261390,,,,,28,36,69,"3851 SE OLD OLYMPIC HWY
+SHELTON, WA 98584
+(47.128893, -123.097439)",Yes
+"1,294",Clover Park Hillside ECEAP,Hillside Elementary,51,Clover Park School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,61700 Garcia Blvd,JBLM Lewis Main,WA,98433,Pierce,2535835280,Dan Benavides,dbenavid@cloverpark.k12.wa.us,2535835283x1,,38,36,69,"61700 Garcia Blvd
+JBLM Lewis Main, WA 98433",Yes
+267,Manchester,,,Direct Service Site,16,ESD 114 - Olympic ESD,Public school or school district building,1901 California Ave. E,Port Orchard,WA,98366,Kitsap,3604786889,Moe Akers,cakers@oesd114.org,3604433280,,34,36,69,"1901 California Ave E
+Port Orchard, WA 98366
+(47.551548, -122.556694)",Yes
+352,South Whidbey,South Whidbey ECEAP,,Direct Service Site,"1,948",Skagit Valley College Head Start & ECEAP,Public school or school district building,5476 S Maxwelton Rd,Langley,WA,98260,Island,3603210696x5348,Julia Sewell,eceap.enrollment@skagit.edu,3602216808,,31,36,69,"5476 S Maxwelton Rd
+Langley, WA 98260
+(48.01277, -122.40963)",Yes
+"2,310",Root's Daycare,,2304,Rochester Roots Daycare,15,ESD 113 - Sound to Harbor Early Learning Programs,Child Care Center Including Campus Child Care,9929 Hwy 12 SW,Rochester,WA,98579,Thurston,3608587338,April Root,rootape101@gmail.com,3608587338,,11,36,69,"9929 Hwy
+SW Rochester, WA 98579",Yes
+"1,959",Ninety-Ninth Center,,,Direct Service Site,10,Educational Opportunities for Children and Families,Head Start Facility,10002 NE 13th Avenue,Vancouver,WA,98686,Clark,3608969912,Clover Spears,clover.spears@eocfwa.org,3605672789,,36,36,69,"10002 NE 13th Avenue
+Vancouver, WA 98686
+(45.694035, -122.658459)",Yes
+"2,239",,,2238,,17,ESD 121 - Puget Sound ESD,Family Child Care Home,,,WA,98409,Pierce,,,,,,0,36,69,,Yes
+302,Orondo School District,,95,Orondo School District #13,5,Chelan-Douglas Child Services Association,Public school or school district building,100 Orondo School Road,Orondo,WA,98843,Douglas,5096620683x260,Lance Young,lyoung@orondo.wednet.edu,5097841333,,18,36,69,"100 Orondo School Road
+Orondo, WA 98843
+(47.640284, -120.216812)",Yes
+"1,360",Centralia College ECEAP Annex,,,Direct Service Site,4,Centralia College,College/University - not child care,412 South Oak St Annex,Centralia,WA,98531,Lewis,3606238950,Teresa Schneider,teresa.schneider@centralia.edu,3606238603,,52,36,69,"412 South Oak St Annex
+Centralia, WA 98531
+(46.720677, -122.958824)",Yes
+396,Woodlands,,,Direct Service Site,16,ESD 114 - Olympic ESD,Public school or school district building,7420 Central Valley Rd. Ne,Bremerton,WA,98311,Kitsap,3604786889,Marilou Gotier,mgotier@oesd114.org,3606629758,,18,36,69,"7420 Central Valley Rd Ne
+Bremerton, WA 98311
+(47.62964, -122.650187)",Yes
+187,Federal Way Decatur ECEAP,Decatur High School ,64,Federal Way School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,2800 SW 320th St,Federal Way,WA,98023,King,2539452379,Ivona Radunovic,iradunovic@fwps.org,2539455242,,40,36,69,"2800 SW 320th St
+Federal Way, WA 98023
+(47.315183, -122.36858)",Yes
+"2,167",Phantom Lake Child Care Center/ Bell Pub,Phantom Lake,,Direct Service Site,"1,964",Bellevue School District,Public school or school district building,1050 160TH AVE SE,Bellevue,WA,98008,King,4254564030,Alicia Brender,brendera@bsd405.org,4254564002,,30,36,69,"1050 160TH AVE SE
+Bellevue, WA 98008
+(47.599065, -122.126329)",Yes
+"2,096",Crestline Elementary,Crestline ECEAP,,Direct Service Site,10,Educational Opportunities for Children and Families,Public school or school district building,13003 SE 7th St,Vancouver,WA,98683,Clark,3608969912,Daria Giuchici,daria.giuchici@eocfwa.org,3605672782,,10,36,69,"13003 SE 7th St
+Vancouver, WA 98683
+(45.616191, -122.539158)",Yes
+"1,469",Loon Lake ECEAP,,,Direct Service Site,12,ESD 101 - NEW ESD,Public school or school district building,4001 Maple Street,Loon Lake,WA,99148,Stevens,5093232720,Brad Van Dyne,bvandyne@loonlakeschool.org,5092332212,,11,36,69,"4001 Maple Street
+Loon Lake, WA 99148
+(48.062941, -117.630519)",Yes
+398,WSU Children Center,,133,WSU Children Center,7,Community Child Care Center,Child Care Center Including Campus Child Care,MS 643454,Pullman,WA,99164,Whitman,5093349290,Heather Havey,h.havey@wsu.edu,5093358847,,11,36,69,"643454 Pullman
+WA 99164",Yes
+"2,393",Methow,,,Direct Service Site,5,Chelan-Douglas Child Services Association,Non-Profit Organization Building,1321 Methow St,Wenatchee,WA,98801,Chelan,5096635179,Shannon Abbott,sabbott@cdcsa.com,5096635179,,36,36,69,"1321 Methow St
+Wenatchee, WA 98801
+(47.404778, -120.308435)",No
+388,Warden Child Development Center,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,118 West 2nd Street,Warden,WA,98857,Grant,5093490395,Irene Pruneda,irene.pruneda@inspire-centers.org,5093490395,,40,36,69,"118 West 2nd Street
+Warden, WA 98857
+(46.968686, -119.040836)",Yes
+"2,108",Enatai,,,Direct Service Site,"1,964",Bellevue School District,Public school or school district building,10700 SE 25th ST,Bellevue,WA,98004,King,4254564030,Leslie Oswald,oswaldl@bsd405.org,4254565212,,18,36,69,"10700 SE 25th ST
+Bellevue, WA 98004
+(47.58805, -122.19816)",Yes
+394,Tacoma Whittier Elementary ECEAP,,120,Tacoma School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,777 Elm Tree Lane,Fircrest,WA,98466,Pierce,2535717569,Katy (Katrina) Brown,kbrown1@Tacoma.K12.WA.US,2535717574,,38,36,69,"777 Elm Tree Lane
+Fircrest, WA 98466
+(47.229392, -122.514396)",Yes
+"2,350",Smokey Point Day Care and Early Learning Center,Smokey Point ELC,2349,Smokey Point Daycare and Early Learning Center,36,Snohomish County,Child Care Center Including Campus Child Care,3719 168th PLACE NE #E,Arlington,WA,98223,Snohomish,3606589421,Kathy Carman,smokeypointdaycare@yahoo.com,3606319076,,10,36,69,"3719 168th PLACE NE
+E Arlington, WA 98223",Yes
+"2,417",PCHS Eatonville,Eatonville Elementary School ECEAP,99,Pierce County Human Services,17,ESD 121 - Puget Sound ESD,Public school or school district building,209 Lynch Creek Rd E,Eatonville,WA,98328,Pierce,3608324892,Carolyn Jones,carolyn.jones@piercecountywa.gov,3608324892,,20,36,69,"209 Lynch Creek Rd E
+Eatonville, WA 98328
+(46.871094, -122.264721)",Yes
+"2,177",Toppenish Preschool,,2176,Toppenish School District,13,ESD 105 - Yakima,Public school or school district building,407 Juniper St,Toppenish,WA,98948,Yakima,5098658179,Anastasia  Sanchez,sancheza@toppenish.wednet.edu,5098658179,,103,36,69,"407 Juniper St
+Toppenish, WA 98948
+(46.379688, -120.325421)",Yes
+"2,182",Bethel Frederickson ECEAP,Frederickson Elementary,44,Bethel School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,17418 74th Ave East,Puyallup,WA,98375,Pierce,2538006304,Jackie Richards,jarichards@bethelsd.org,2538005558,,9,36,69,"17418 74th Ave East
+Puyallup, WA 98375
+(47.099257, -122.330793)",Yes
+"1,444",Birchwood,,,Direct Service Site,30,Opportunity Council,Public school or school district building,3200 Pinewood Ave,Bellingham,WA,98225,Whatcom,3606766466,Shoshana Dugger,shoshana_dugger@oppco.org,3607348396,,18,36,69,"3200 Pinewood Ave
+Bellingham, WA 98225
+(48.775017, -122.506653)",Yes
+"2,192",INACTIVE Federal Way Totem ECEAP,Totem Middle School,64,Federal Way School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,26630 40th Ave South,Kent,WA,98032,King,2539455100,Rebecca Padilla,rpadilla@fwps.org,2539455882,,0,36,69,"26630 40th Ave South
+Kent, WA 98032
+(47.362394, -122.283878)",No
+"2,295",SAUK SUIATTLE TRIBE,Sauk-Suiattle Tribe,2294,Sauk-Suiattle Tribe,36,Snohomish County,Tribal Organization building,5318 CHIEF BROWN LANE,DARRINGTON,WA,98241,Skagit,3604361854,Tanya Burns,tburns@sauk-suiattle.com,3604361854,,10,36,69,"5318 CHIEF BROWN LANE
+DARRINGTON, WA 98241
+(48.319458, -121.551042)",Yes
+"2,346",Cle Elum-Roslyn Preschool,,2345,Cle Elum-Roslyn School District,13,ESD 105 - Yakima,Public school or school district building,2696 SR 903,Cle Elum,WA,98922,Kittitas,5095752885,Carrieanne Selzler,selzlerc@cersd.org,5096494807,,18,36,69,"2696 SR
+Cle Elum, WA 98922",No
+266,LCC East ECEAP,LCC East & West ,,Direct Service Site,24,Lower Columbia College,Head Start Facility,1600 Maple Street,Longview,WA,98632,Cowlitz,3604422800,Mindy Leasure,mleasure@lowercolumbia.edu,3604422801,,119,36,69,"1600 Maple Street
+Longview, WA 98632
+(46.141349, -122.938519)",Yes
+322,Quillayute Valley School District,Forks,102,Quillayute Valley School District,28,Olympic Community Action Programs,Public school or school district building,301 S Elderberry,Forks,WA,98331,Clallam,3604524726,Diana Reaume,Diana.Reaume@qvschools.org,3603746262,,51,36,69,"301 S Elderberry Forks
+WA 98331
+(47.948331, -124.379666)",Yes
+147,Basin City Child Development Center,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,281 First Avenue,Mesa,WA,99343,Franklin,5092694031,Lucia Herrera,lucia.herrera@inspire-centers.org,5092694031,,35,36,69,"281 First Avenue
+Mesa, WA 99343
+(46.592027, -119.150063)",Yes
+"2,130",GREEN GABLE CHILDRENS LEARNING CENTER,GG-South-Waterford Court,2129,Green Gable Childrens Learning Center South,12,ESD 101 - NEW ESD,Child Care Center Including Campus Child Care,1722 E 32ND COURT,SPOKANE,WA,99203,Spokane,5093232720,Carrie Marks,greengable.carrie@gmail.com,5094556110,,15,36,69,"1722 E 32ND COURT
+SPOKANE, WA 99203
+(47.625457, -117.385018)",Yes
+"2,225",Inspire Development Centers - Kennewick,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,16 North Huntington,Kennewick,WA,99336,Benton,8778214113,Patricia Mendoza Rodriguez,patricia.mendozarodriguez@inspire-centers.org,5092694031,,85,36,69,"16 North Huntington
+Kennewick, WA 99336
+(46.210363, -119.162279)",Yes
+354,Bethel Spanaway ECEAP,Bethel Spanaway Elementary ,44,Bethel School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,412 165th St. S,Spanaway,WA,98387,Pierce,2536835369,Carol Hogan,chogan@bethelsd.org,2538005369,,36,36,69,"412 165th St S
+Spanaway, WA 98387
+(47.107677, -122.438304)",Yes
+"2,407",Denise Louie Education Center Beacon Hill,,,Direct Service Site,"2,338",Denise Louie Education Center,Non-Profit Organization Building,3327 BEACON AVE S,Seattle,WA,98144,King,2067678223,Heidi Jensen,hjensen@deniselouie.org,2067259740,,11,36,69,"3327 BEACON AVE S
+Seattle, WA 98144
+(47.573409, -122.308714)",Yes
+288,Multicultural Child & Family Hope Center,,88,Multicultural Child & Family Hope Center,17,ESD 121 - Puget Sound ESD,Child Care Center Including Campus Child Care,2021 SOUTH 19TH STREET,TACOMA,WA,98405,Pierce,2532720903,Mary Johnson,majohnson@mcfhc.org,2532720942,2532976401,118,36,69,"2021 SOUTH 19TH STREET
+TACOMA, WA 98405
+(47.242691, -122.464032)",Yes
+193,Otis Orchards Elementary,,55,East Valley School District,8,Community Colleges of Spokane,Public school or school district building,22000 E. Wellesley Ave,Otis Orchards,WA,99027,Spokane,5098934125,Karen  Cloninger,cloningerk@evsd.org,5092415045,,35,36,69,"22000 E Wellesley Ave
+Otis Orchards, WA 99027
+(47.700367, -117.109806)",Yes
+263,Liberty Park Community Development Center,Liberty Park,77,Liberty Park Community Development Center,8,Community Colleges of Spokane,Non-Profit Organization Building,1417 E Hartson Ave,Spokane,WA,99202,Spokane,5095340957,Ivy Chetverikov,Ivy@libertyparkkids.org,5095340957,,40,36,69,"1417 E Hartson Ave
+Spokane, WA 99202
+(47.649973, -117.389088)",Yes
+"2,317",VOA-Sultan 2,VOA Sultan 2,130,Volunteers of America,36,Snohomish County,Non-Profit Organization Building,705 1st ST,Sultan,WA,98294,Snohomish,4252122941,Jessica Marburger,jmarburger@voaww.org,4252122941,,20,36,69,"705 1st ST
+Sultan, WA 98294
+(47.868093, -121.820721)",Yes
+"2,287",Childhaven Brigadoon,,2189,Childhaven,17,ESD 121 - Puget Sound ESD,Public school or school district building,3601 SW 336th,Federal Way,WA,98023,King,2532492073,Kelly Emery,kellye@childhaven.org,2532492076,,12,36,69,"3601 SW 336th Federal Way
+WA 98023
+(47.300735, -122.378238)",Yes
+191,East Port Orchard Elementary,,,Direct Service Site,16,ESD 114 - Olympic ESD,Public school or school district building,1964 Hoover Ave Se,Port Orchard,WA,98366,Kitsap,3604786889,Beth Bowen-Wegner,bwegner@oesd114.org,3604433204,,17,36,69,"1964 Hoover Ave Se
+Port Orchard, WA 98366
+(47.525996, -122.62666)",Yes
+"1,966",Tacoma Bryant Elementary,,120,Tacoma School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,717 South Grant Avenue,Tacoma,WA,98405,Pierce,2535712615,Kristyne Brabham,kbrabha@tacoma.k12.wa.us,2535712857,,31,36,69,"717 South Grant Avenue
+Tacoma, WA 98405
+(47.254841, -122.461191)",Yes
+"1,370",SWCCC CENTRAL PARK,,,Direct Service Site,14,ESD 112 - Vancouver,Child Care Center Including Campus Child Care,2115 EAST MCLOUGHLIN,VANCOUVER,WA,98661,Clark,3609523470,,,,,13,36,69,"2115 EAST MCLOUGHLIN
+VANCOUVER, WA 98661
+(45.632346, -122.648911)",Yes
+329,Republic ECEAP,,,Direct Service Site,12,ESD 101 - NEW ESD,Public school or school district building,30306 E. Hwy. 20,Republic,WA,99166,Ferry,5097753327x125,Carolann Gutierrez,cguttierrez@republicsd.org,5097753327,,16,36,69,"30306 E Hwy
+Republic, WA 99166",Yes
+283,Moses Lake Child Development Center,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,1109 Juniper Drive,Moses Lake,WA,98837,Grant,5097666440,Sonia Ozuna,sonia.ozuna@inspirecenters.org,5097666440,,80,36,69,"1109 Juniper Drive
+Moses Lake, WA 98837",Yes
+363,Stevens Elementary School,Stevens Elementary,,Direct Service Site,2,Aberdeen School District,Public school or school district building,301 S Farragut St.,Aberdeen,WA,98520,Grays Harbor,3605382251,Missy Smith,msmith@asd5.org,3605382150,,22,36,69,"301 S Farragut St
+Aberdeen, WA 98520
+(46.966744, -123.789052)",Yes
+240,Hoquiam - Lincoln School,Lincoln Elementary School,68,Hoquiam School District,2,Aberdeen School District,Public school or school district building,700 Wood Ave,Hoquiam,WA,98550,Grays Harbor,3605377403,Marah Gannaway,mgannaway@hoquiam.net,3605388250,,28,36,69,"700 Wood Ave
+Hoquiam, WA 98550
+(46.99188, -123.888149)",Yes
+"2,410",Alderwood,,,Direct Service Site,30,Opportunity Council,Public school or school district building,3400 Hollywood Ave,Bellingham,WA,98225,Whatcom,3607348396,Shawna Lovell,shawna_lovell@oppco.org,3607348396,,18,36,69,"3400 Hollywood Ave
+Bellingham, WA 98225
+(48.778148, -122.527646)",Yes
+257,Lake Quinault School District,,,Direct Service Site,22,Lake Quinault School District,Public school or school district building,6130 US Highway 101,Amanda Park,WA,98526,Grays Harbor,3602882414x420,Margaret Santa Lucia,msantalucia@lakequinaultschools.org,3602882414x430,,19,36,69,"6130 US Highway 101 Amanda Park
+WA 98526",Yes
+"2,319",YWCA West Plains ECEAP,,139,YWCA of Spokane,8,Community Colleges of Spokane,Non-Profit Organization Building,13513 W 6th Avenue,Airway Heights,WA,99001,Spokane,5092444833,Jahmia Lujan ,jahmial@ywcaspokane.org,5092444833,,54,36,69,"13513 W 6th Avenue
+Airway Heights, WA 99001
+(47.649998, -117.598525)",Yes
+"2,395",Cashmere Vale,,2343,Cashmere School District,5,Chelan-Douglas Child Services Association,Public school or school district building,210 S Division St,Cashmere,WA,98815,Chelan,5096635179,Shannon Abbott,sabbott@cdcsa.com,5096635179,,25,36,69,"210 S Division St
+Cashmere, WA 98815
+(47.520305, -120.469974)",No
+379,Tulalip Tribes,Tulalip ECEAP  Betty J. Taylor Early learning Academy,127,Tulalip Tribes,36,Snohomish County,Tribal Organization building,7607 Totem Beach Road,Tulalip,WA,98271,Snohomish,3607164273,Stephanie Pitman,spitman@tulaliptribes-nsn.gov,3607164273,,72,36,69,"7607 Totem Beach Road
+Tulalip, WA 98271
+(48.065079, -122.285258)",Yes
+"1,499",Yesler Terrace,Epstein Opportunity Center,,Direct Service Site,711,Neighborhood House,Non-Profit Organization Building,120 8th Ave,Seattle,WA,98104,King,2064618430x247,Shara Glithero,sharag@nhwa.org,2532281659,,20,36,69,"120 8th Ave
+Seattle, WA 98104
+(47.602399, -122.322464)",Yes
+242,Jane's House Easter Seals at YVCC,,613,Easter Seals at YVCC,13,ESD 105 - Yakima,Child Care Center Including Campus Child Care,1101 S 13TH AVE,YAKIMA,WA,98902,Yakima,5095744762,Tomi Barragan,Tbarragan90@gmail.com,5095946954,,19,36,69,"1101 S 13TH AVE
+YAKIMA, WA 98902
+(46.585234, -120.526404)",Yes
+229,Harrah Child Development Center,,,Direct Service Site,41,Inspire Development Centers,Child Care Center Including Campus Child Care,7871 Branch Road,Harrah,WA,98933,Yakima,5098483422,Josefina Venegas,josefina.venegas@inspire-centers.org,5098483422,,29,36,69,"7871 Branch Road
+Harrah, WA 98933
+(46.404636, -120.542674)",Yes
+211,EPS Hawthorne,,62,Everett Public Schools,36,Snohomish County,Public school or school district building,1110 Poplar St,Everett,WA,98201,Snohomish,4253854627,Julie Boyer,jboyer2@everettsd.org,4253854627,,80,36,69,"1110 Poplar St
+Everett, WA 98201
+(48.002921, -122.195175)",Yes
+156,Tacoma Boze Early Childhood Center ECEAP,,120,Tacoma School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,1140 E 65th Street,Tacoma,WA,98404,Pierce,2535714675,Michelle Rahl-Lewis,mlewis1@tacoma.k12.wa.us,2535712615,,38,36,69,"1140 E 65th Street
+Tacoma, WA 98404
+(47.198139, -122.413618)",Yes
+310,Pasco 1 Child Development Center,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,315 W Court St,Pasco,WA,99301,Franklin,5095477882,Letty Ramirez,leticia.ramirez@inspirecenters.org,5095477882,,40,36,69,"315 W Court St
+Pasco, WA 99301
+(46.241238, -119.091946)",Yes
+"2,228",Finley Elementary School,,,Direct Service Site,"1,364",ESD 123,Public school or school district building,213504 E Cougar Rd,Kennewick,WA,99337,Benton,5095445770,Tammy Moody,tmoody@esd123.org,5093802812,,19,36,69,"213504 E Cougar Rd
+Kennewick, WA 99337
+(46.143062, -119.052437)",Yes
+284,Mount Vernon Child Development Center,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,2405 KULSHAN DRIVE,Mount Vernon,WA,98273,Skagit,3604283993,Janet Cervantes Nava,janet.cervantesnava@inspirecenters.org,3604283993,,92,36,69,"2405 KULSHAN DRIVE Mount
+Vernon, WA 98273
+(48.433014, -122.311379)",Yes
+"1,973",Tender Moments,,,Direct Service Site,"1,947",Tender Moments LLC Daycare & Preschool,Child Care Center Including Campus Child Care,9111 346TH STREET,ROY,WA,98580,Pierce,3604589224,Lisa Gorley,tendermomentsdaycare@hotmail.com,3604589224,,36,36,69,"9111 346TH STREET
+ROY, WA 98580
+(46.943256, -122.55192)",Yes
+"2,382",College Place ECEAP,,,Direct Service Site,"1,364",ESD 123,Public school or school district building,255 SE Larch,College Place,WA,99324,Walla Walla,5095445767,Jenyfer Reese,jreese@wwps.org,5095261781,,15,36,69,"255 SE Larch College Place
+WA 99324
+(46.047591, -118.378174)",Yes
+"2,331",LCC HOME & FAMILY,LCC ELC,,Direct Service Site,24,Lower Columbia College,Child Care Center Including Campus Child Care,1600 MAPLE,LONGVIEW,WA,98632,Cowlitz,3604422805,Kari Johnson,kmjohnson@lcc.ctc.edu,3604422890,,17,36,69,"1600 MAPLE
+LONGVIEW, WA 98632
+(46.141349, -122.938519)",Yes
+275,Mattawa Child Development Center,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,310 4th Street,Mattawa,WA,99349,Grant,5099324401,Maribel Gomez Aguilar,maribel.gomezaguiar@inspire-centers.org,5098378909,,40,36,69,"310 4th Street
+Mattawa, WA 99349
+(46.734198, -119.903498)",Yes
+192,East Farms Elementary,,55,East Valley School District,8,Community Colleges of Spokane,Public school or school district building,26203 E Rowan,Newman Lake,WA,99025,Spokane,5098934122,Karen  Cloninger,cloningerk@evsd.org,5092415045,,32,36,69,"26203 E Rowan Newman Lake
+WA 99025
+(47.707663, -117.054999)",Yes
+"2,358",Keene-Riverview,,,Direct Service Site,"1,364",ESD 123,Public school or school district building,832 Park Avenue ,Prosser,WA,99350,Benton,5095445767,Tammy Moody,tmoody@esd123.org,5093802812,,20,36,69,"832 Park Avenue
+Prosser, WA 99350
+(46.200341, -119.774984)",Yes
+143,Arlington SD,APPLE ECEAP Preschool,42,Arlington School District,36,Snohomish County,Public school or school district building,1215 E 5th St,Arlington,WA,98223,Snohomish,3606186434,Carrie Saunders,csaunders@asd.wednet.edu,3606186434,,75,36,69,"1215 E 5th St
+Arlington, WA 98223
+(48.197726, -122.113573)",Yes
+221,Garfield,Garfield,65,Garfield School District,7,Community Child Care Center,Public school or school district building,810 N 3rd Street,Garfield,WA,99130,Whitman,5093349290,Zane Wells,zwells@garpal.net,5096351331,,7,36,69,"810 N 3rd Street
+Garfield, WA 99130
+(47.013733, -117.140834)",Yes
+154,Boistfort Elementary School,,46,Boistfort Elementary,4,Centralia College,Public school or school district building,983 Boistfort Rd,Curtis,WA,98538,Lewis,3606238950,Chris Clark,cclark@boistfort.k12.wa.us,3602453343,,2,36,69,"983 Boistfort Rd
+Curtis, WA 98538
+(46.550039, -123.133852)",Yes
+"2,093",West Valley Early Learning Center,,131,West Valley School District,8,Community Colleges of Spokane,Public school or school district building,2523 N Park Road,Spokane Valley,WA,99212,Spokane,5099225478,Lauren Fiedler,lauren.fiedler@wvsd.org,5093407114,,65,36,69,"2523 N Park Road
+Spokane Valley, WA 99212
+(47.680297, -117.30404)",Yes
+190,Granger School District,Early Childhood Center,,Direct Service Site,19,Granger School District,Public school or school district building,601 E Ave.,Granger,WA,98932,Yakima,5098542512,Graciela Madrigal,madrigalg@gsd.wednet.edu,5098542512,,76,36,69,"601 E Ave
+Granger, WA 98932
+(46.345298, -120.188241)",Yes
+"2,188",Clover Park Hayes Child Development Center,Clover Park Technical College,2187,Clover Park Tech College,17,ESD 121 - Puget Sound ESD,Child Care Center Including Campus Child Care,4500 STEILACOOM BLVD SW # 20,LAKEWOOD,WA,98499,Pierce,2535895721,,,,,36,36,69,"4500 STEILACOOM BLVD SW
+LAKEWOOD, WA 98499
+(47.176526, -122.506554)",Yes
+219,Fruit Valley,Fruit Valley,,Direct Service Site,10,Educational Opportunities for Children and Families,Public school or school district building,3410 NW Fruit Valley Rd,Vancouver,WA,98660,Clark,3605672720,Pamela Graham,pamela.graham@eocfwa.org,3605671691,,18,36,69,"3410 NW Fruit Valley Rd
+Vancouver, WA 98660
+(45.647118, -122.692366)",Yes
+375,Tiny Tots Development Center - East Campus,,125,Tiny Tots Development Center,6,City of Seattle ,Child Care Center Including Campus Child Care,8318 Renton Ave S.,Seattle,WA,98118,King,2067231590,Jacqualine Boles,jboles@tinytotsdc.org,2067602670,,40,36,69,"8318 Renton Ave S
+Seattle, WA 98118
+(47.528518, -122.27794)",Yes
+"2,297",Northshore Hollywood Hill ECEAP,Hollywood Hill ECEAP,2296,Northshore School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,17110 148th Ave NE,Woodinville,WA,98072,King,4254085700,Sheriece Simon,ssimon@nsd.org,4254084740,,57,36,69,"17110 148th Ave NE
+Woodinville, WA 98072
+(47.752594, -122.141698)",Yes
+204,Endicott,,59,Endicott School District,7,Community Child Care Center,Public school or school district building,308 School Drive,Endicott,WA,99125,Whitman,5093349290,Bruce  Porubek,borubek@sje.wednet.edu,5096573523,5096483451,8,36,69,"308 School Drive
+Endicott, WA 99125",Yes
+176,Orcas Island Childrens House,Children's House,50,Children's House,33,San Juan County ECEAP,Child Care Center Including Campus Child Care,36 PEA PATCH LANE,EASTSOUND,WA,98245,San Juan,3603700593,Ady Walker,ady@oich.org,3603764744,,7,36,69,"36 PEA PATCH LANE
+EASTSOUND, WA 98245
+(48.699865, -122.907409)",Yes
+"2,374",,,2359,,"2,028",Early Learning Child Development Resources,Family Child Care Home,,,WA,99141,Stevens,,,,,,1,36,69,,Yes
+"2,415",Pear Street Early Learning Center,Early Learning Center ,,Direct Service Site,4,Centralia College,College/University - not child care,910 W. Pear St.,Centralia ,WA,98531,Lewis,3606238950,Geana  Dobyns,geana.dobyns@centralia.edu,3606238742,,99,36,69,"910 W Pear St
+Centralia, WA 98531
+(46.715407, -122.965807)",Yes
+385,VOA-Sultan - ECEAP,AM,130,Volunteers of America,36,Snohomish County,Non-Profit Organization Building,605 1st ST,Sultan,WA,98294,Snohomish,4252122941,Jessica Marburger,jmarburger@voaww.org,4252122941,,40,36,69,"605 1st ST
+Sultan, WA 98294
+(47.867393, -121.820698)",Yes
+"1,573",MacArthur,MacArthur,,Direct Service Site,10,Educational Opportunities for Children and Families,Non-Profit Organization Building,5300 MacArthur Blvd.,Vancouver,WA,98661,Clark,3605672720,Michelle Strosahl,michelle.strosahl@eocfwa.org,3607188074,,35,36,69,"5300 MacArthur Blvd
+Vancouver, WA 98661
+(45.626409, -122.616542)",Yes
+355,Springdale,Springdale,82,Mary Walker School District,32,Rural Resources Community Action,Public school or school district building,500 N 4th Street,Springdale,WA,99173,Stevens,5099354315,Brandi Armstrong,barmstrong@ruralresources.org,5096856105,,9,36,69,"500 N 4th Street
+Springdale, WA 99173
+(48.05936, -117.746961)",Yes
+342,Sea Mar Community Health Center,,112,Sea Mar Comm Health CTR,6,City of Seattle ,Child Care Center Including Campus Child Care,1040 S. HENDERSON STREET,SEATTLE,WA,98108,King,2067883245,Diana Elenes,dianaelenes@seamarchc.org,2067883245,,75,36,69,"1040 S HENDERSON STREET
+SEATTLE, WA 98108
+(47.523048, -122.31865)",Yes
+"2,247",Inspire-Sunnyside II CDC,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,605 N. 16th Street,Sunnyside,WA,98944,Yakima,5095152116,Arminda Caballero-Cervantes,arminda.caballero-cervantes@inspire-centers.org,5095152116,,15,36,69,"605 N 16th Street
+Sunnyside, WA 98944
+(46.332597, -119.999164)",Yes
+313,Bethel Pioneer Valley ECEAP,Bethel Pioneer Valley Elementary ECEAP,44,Bethel School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,7315 Eustis Hunt Rd,Spanaway,WA,98387,Pierce,2536838950,Karen Mulloy,kmulloy@bethelsd.org,2538006423,,18,36,69,"7315 Eustis Hunt Rd
+Spanaway, WA 98387
+(47.068149, -122.331308)",Yes
+372,Bethel Thompson ECEAP,Bethel Thompson  Elementary ,44,Bethel School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,303 159th St E,Tacoma,WA,98445,Pierce,2536835853,Jackie Richards,jarichards@bethelsd.org,2538005558,,98,36,69,"303 159th St E
+Tacoma, WA 98445
+(47.112308, -122.426415)",Yes
+"1,410",Highline Early Learning Center,"CHSW, Highline Early Learning Center",,Direct Service Site,700,Children's Home Society of Washington,Head Start Facility,2400 S 240th St Bldg O,Des Moines,WA,98198,King,2068241378,Abok  Ajaero,aboka@chs-wa.org,2068241378,,20,36,69,"2400 S 240th St
+Bldg O Des Moines, WA 98198
+(47.386578, -122.305216)",Yes
+380,PCHS University Place ECEAP,PCHS University Place,99,Pierce County Human Services,17,ESD 121 - Puget Sound ESD,Public school or school district building,7102 40th St. W,University Place,WA,98466,Pierce,2535651454,Jackie Zieg,jaclyn.zieg@piercecountywa.gov,2535651454,,40,36,69,"7102 40th St W
+University Place, WA 98466
+(47.220854, -122.531873)",Yes
+165,Burlington Child Development Center,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,20237 LAFAYETTE ROAD,Mount Vernon,WA,98273,Skagit,3607072837,Ashleigh Anselment,9544@inspire-centers.org,3607072837,,38,36,69,"20237 LAFAYETTE ROAD Mount
+Vernon, WA 98273
+(48.478753, -122.305352)",Yes
+271,INACTIVE Martin Luther King Jr. Family Outreach,,80,Martin Luther King Jr. Family Outreach Center,8,Community Colleges of Spokane,Non-Profit Organization Building,845 S Sherman St,Spokane,WA,99202,Spokane,5094558722,Freda Gandy,fgandy@mlkspokane.org,5094558722,,0,36,69,"845 S Sherman St
+Spokane, WA 99202
+(47.647727, -117.403346)",Yes
+"1,497",Rainier Vista,,,Direct Service Site,711,Neighborhood House,Non-Profit Organization Building,4410 29th Ave S,Seattle,WA,98108,King,2064618430,Linda Chugani,lindac@nhwa.org,2067199226,,40,36,69,"4410 29th Ave S
+Seattle, WA 98108
+(47.563126, -122.296243)",Yes
+175,Chief Leschi ECEAP,,49,Chief Leschi School,17,ESD 121 - Puget Sound ESD,Tribal Organization building,5625 52nd St E,Puyallup,WA,98371,Pierce,2534456000x3027,Giuliana Molinaro,giuliana.molinaro@leschischools.org,2534456000x3050,,20,36,69,"5625 52nd St E
+Puyallup, WA 98371
+(47.209983, -122.355064)",Yes
+"2,009",Lincoln Elementary,,,Direct Service Site,14,ESD 112 - Vancouver,Public school or school district building,4200 Daniels St,Vancouver,WA,98660,Clark,3607507500,,,,,24,36,69,"4200 Daniels St
+Vancouver, WA 98660
+(45.655901, -122.675578)",Yes
+"2,102",KYFS Jenkins Creek,KYFS Jenkins Creek ECEAP,71,Kent Youth And Family Service,17,ESD 121 - Puget Sound ESD,Public school or school district building,26915 186th Ave SE,Covington,WA,98042,King,2536309590,Robin Robertson,robinr@kyfs.org,2533732684,,19,36,69,"26915 186th Ave SE
+Covington, WA 98042
+(47.360665, -122.093936)",Yes
+"1,402",Sarah J,,,Direct Service Site,10,Educational Opportunities for Children and Families,Head Start Facility,2215 NE 104th St,Vancouver,WA,98665,Clark,3605672720,Suzie Quach,suzie.quach@eocfwa.org,3605672796,,17,36,69,"2215 NE 104th St
+Vancouver, WA 98665
+(45.696722, -122.649003)",Yes
+"2,265",Auburn Pioneer,,673,Auburn School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,2301 M Street SE,Auburn,WA,98002,King,2538330143,Jennifer Adams,jadams@auburn.wednet.edu,2538330143,,38,36,69,"2301 M Street SE
+Auburn, WA 98002
+(47.28825, -122.213372)",Yes
+"2,279",Highline Hilltop,,67,Highline School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,12250 24th Ave S,Burien,WA,98168,King,2066313190,Brenda Limric,brenda.limric@highlineschools.org,2066314051,,38,36,69,"12250 24th Ave S
+Burien, WA 98168
+(47.492821, -122.302107)",Yes
+"2,333",Whittier Elementary,,,Direct Service Site,"1,364",ESD 123,Public school or school district building,616 N. Wehe Ave ,Pasco ,WA,99301,Franklin,5095445767,Patricia Garcia,pgarcia@esd123.org,5093805440,,18,36,69,"616 N Wehe Ave
+Pasco, WA 99301
+(46.240145, -119.075761)",Yes
+"2,288",Kettle Falls,Kettle Falls Early Learning Center,2273,Kettle Falls School District,32,Rural Resources Community Action,Public school or school district building,735 Meyers Street,Kettle Falls,WA,99141,Stevens,5096856116,Trisha Dean,tdean@kfschools.org,5097386625,,8,36,69,"735 Meyers Street
+Kettle Falls, WA 99141
+(48.606297, -118.056128)",Yes
+"2,237",Larry Eyer Early Learning Center,National/ Formerly West Hills Early Learning Center,,Direct Service Site,21,Kitsap Community Resources,Non-Profit Organization Building,3791 W. Loxie Eagans Blvd,Bremerton,WA,98312,Kitsap,3604732086,Pranvera Druschke,prollman@kcr.org,3604732075,,34,36,69,"3791 W Loxie Eagans Blvd
+Bremerton, WA 98312
+(47.557996, -122.666773)",Yes
+149,Bates Campus South ECEAP,Bates Tech South Campus,43,Bates Technical College,17,ESD 121 - Puget Sound ESD,Child Care Center Including Campus Child Care,2201 South 78th St.,Tacoma,WA,98409,Pierce,2536807566,Shannon Stewart,sstewart@batestech.edu,2536807566,,40,36,69,"2201 South 78th St
+Tacoma, WA 98409
+(47.18656, -122.466452)",Yes
+162,Broadway ECEAP,,,Direct Service Site,24,Lower Columbia College,Public school or school district building,1410 8th Avenue,Longview,WA,98632,Cowlitz,3604422800,Julie McReary,jmcreary@lcc.ctc.edu,3602002524,,80,36,69,"1410 8th Avenue
+Longview, WA 98632
+(46.137789, -122.92714)",Yes
+330,Rewa - Bethany,,105,Refugee Women's Alliance,6,City of Seattle ,Faith-Based Facility,6230 BEACON AVE S,SEATTLE,WA,98108,King,2067233304,Susan Lee,susan@rewa.org,2067218447,,28,36,69,"6230 BEACON AVE S
+SEATTLE, WA 98108
+(47.546731, -122.300448)",Yes
+357,Roosevelt Elementary,,116,Spokane Public Schools,8,Community Colleges of Spokane,Public school or school district building,333 West 14th Ave,Spokane,WA,99204,Spokane,5093543336,Juliana Greiner,julianag@spokaneschools.org,5093543336,,13,36,69,"333 West 14th Ave
+Spokane, WA 99204
+(47.642689, -117.415238)",Yes
+167,Centralia College Children's Lab School,Centralia College ECEAP,,Direct Service Site,4,Centralia College,Child Care Center Including Campus Child Care,412 South Oak St,CENTRALIA,WA,98531,Lewis,3606238950,Teresa Schneider,teresa.schneider@centralia.edu,3606238603,,34,36,69,"412 South Oak St
+CENTRALIA, WA 98531
+(46.714377, -122.961523)",Yes
+216,Federal Way Norman Center ECEAP,,64,Federal Way School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,33250 21st Ave SW,Federal Way,WA,98023,King,2539452379,Nikki Cross,ncross@fwps.org,2539454190,,40,36,69,"33250 21st Ave SW
+Federal Way, WA 98023
+(47.303441, -122.360842)",Yes
+326,Reardan ECEAP,,,Direct Service Site,12,ESD 101 - NEW ESD,Public school or school district building,S. 245 Aspen St.,Reardan,WA,99029,Lincoln,5097962511x306,Dwight Cooper,dcooper@reardan.net,5097962701,,25,36,69,"245 Aspen St
+Reardan, WA 99029
+(47.667937, -117.877899)",Yes
+"2,113",Lyle Community Schools,,2060,Lyle School District,14,ESD 112 - Vancouver,Public school or school district building,625 Keasey Ave,Lyle,WA,98635,Klickitat,3609523362,,,,,10,36,69,"625 Keasey Ave
+Lyle, WA 98635
+(45.694938, -121.28246)",Yes
+"2,209",PCHS Buckley ECEAP,PCHS Buckley,99,Pierce County Human Services,17,ESD 121 - Puget Sound ESD,Public school or school district building,250 West Main Street,Buckley,WA,98321,Pierce,2537987379,Cheryl Balliet,cheryl.balliet@piercecountywa.gov,3608295875,,40,36,69,"250 West Main Street
+Buckley, WA 98321
+(47.162928, -122.034724)",Yes
+"1,435",Bellingham Children's Learning Center ECEAP,BCLC,1583,Bellingham Children's Learning Center,30,Opportunity Council,Child Care Center Including Campus Child Care,2600 SQUALICUM PARKWAY,BELLINGHAM,WA,98225,Whatcom,3606760950,Karen Ekdahl,karen@bellinghamchildcare.com,3606760950,,13,36,69,"2600 SQUALICUM PARKWAY
+BELLINGHAM, WA 98225
+(48.774451, -122.475799)",Yes
+"1,579",Clover Park Early Learning Program,,51,Clover Park School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,10202 Earley Ave SW,Lakewood,WA,98499,Pierce,2535835360,Jennifer White,jwhite@cloverpark.k12.wa.us,2535835155,,227,36,69,"10202 Earley Ave SW
+Lakewood, WA 98499
+(47.16543, -122.491014)",Yes
+"2,005",Ardmore,Working Day slot served at Sherwood Forest during breaks,,Direct Service Site,"1,964",Bellevue School District,Public school or school district building,16616 NE 32ND ST,Bellevue,WA,98008,King,4254564030,Alicia Brender,brendera@bsd405.org,4254564002,,34,36,69,"16616 NE 32ND ST
+Bellevue, WA 98008
+(47.638644, -122.117691)",Yes
+"1,459",Castle Rock ECEAP,Castle Rock Elementary School,,Direct Service Site,24,Lower Columbia College,Public school or school district building,620 Roake Street,Castle Rock,WA,98611,Cowlitz,3604422800,Teresa Madsen,tmadsen@lowercolumbia.edu,3604422826,,17,36,69,"620 Roake Street
+Castle Rock, WA 98611",Yes
+360,St James Family Center,,,Direct Service Site,38,St James Family Center,Non-Profit Organization Building,1134 COLUMBIA ST,CATHLAMET,WA,98612,Wahkiakum,3607958612,Vicki Willette,vwillette@stjamesfc.org,3607958612,,24,36,69,"1134 COLUMBIA ST
+CATHLAMET, WA 98612
+(46.19489, -123.37023)",Yes
+"1,405",Hazel Dell,,,Direct Service Site,10,Educational Opportunities for Children and Families,Public school or school district building,511 NE Anderson Rd,Vancouver,WA,98665,Clark,3605672720,Sara Schlichenmayer,sara.schlichenmayer@eocfwa.org,3605671693,,17,36,69,"511 NE Anderson Rd
+Vancouver, WA 98665
+(45.67268, -122.666071)",Yes
+168,Carlton,Carlton Street,,Direct Service Site,21,Kitsap Community Resources,Other,3382A NW Carlton St,Silverdale,WA,98383,Kitsap,3604732086,April Birkenfeld,abirkenfeld@kcr.org,3604732083,,34,36,69,"3382A NW Carlton St
+Silverdale, WA 98383
+(47.646041, -122.695566)",Yes
+"1,488",Tacoma Willard ECEAP,,120,Tacoma School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,3201 South D Street,Tacoma,WA,98418,Pierce,2535712613,Ana Castellanos,acastel@tacoma.k12.wa.us,2535712615,,20,36,69,"3201 South D Street
+Tacoma, WA 98418
+(47.231589, -122.436782)",Yes
+295,Northport ECEAP,,,Direct Service Site,12,ESD 101 - NEW ESD,Public school or school district building,404 10th St.,Northport,WA,99157,Stevens,5097324441x134,Terry Carlson,tcarlson@northportschools.org,5097324441,,8,36,69,"404 10th St
+Northport, WA 99157
+(48.912, -117.788699)",Yes
+250,KYFS Kent Family Center,Birch ,71,Kent Youth And Family Service,17,ESD 121 - Puget Sound ESD,Head Start Facility,13111 SE 274th Street,Kent,WA,98030,King,2536309590,Robin Robertson,robinr@kyfs.org,2533732684,,80,36,69,"13111 SE 274th Street
+Kent, WA 98030
+(47.355843, -122.167091)",Yes
+"2,266",Touchet Elementary,,,Direct Service Site,"1,364",ESD 123,Public school or school district building,90 Champion St,Touchet,WA,99360,Walla Walla,5093942922,Jenyfer Reese,jreese@wwps.org,5095261781,,10,36,69,"90 Champion St
+Touchet, WA 99360
+(46.042841, -118.671361)",Yes
+182,Curlew School District,Curlew ECEAP,,Direct Service Site,12,ESD 101 - NEW ESD,Public school or school district building,47 Curlew School Rd,Curlew,WA,99118,Ferry,5097794931,Wyatt Ladiges,wladiges@curlew.wednet.edu,5097794931,,10,36,69,"47 Curlew School Rd
+Curlew, WA 99118
+(48.874093, -118.60537)",Yes
+339,INACTIVE - Royal City Child Development Center,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,120 Acacia Street West,Royal City,WA,99357,Grant,5093462449,Jacklyn Esparza,jacklyn.esparza@inspire-centers.org,5098378909,,0,36,69,"120 Acacia Street West
+Royal City, WA 99357
+(46.898659, -119.629543)",Yes
+"2,004",Lake Hills,Working Day slot served at Stevenson during breaks,,Direct Service Site,"1,964",Bellevue School District,Public school or school district building,14310 SE 12th ST,Bellevue,WA,98007,King,4254564030,Alicia Brender,brendera@bsd405.org,4254564002,,31,36,69,"14310 SE 12th ST
+Bellevue, WA 98007
+(47.600014, -122.148713)",Yes
+"1,426",KALISPEL TRIBE OF INDIANS,Camas Early Learning Center,1425,Kalispel Tribe,32,Rural Resources Community Action,Tribal Organization building,1821 N LECLERC,Cusick,WA,99119,Pend Oreille,5094477429,Lisa  Russell,lrussell@kalispeltribe.com,5094477429,,14,36,69,"1821 N LECLERC
+Cusick, WA 99119
+(48.343827, -117.270943)",Yes
+"2,178",EVCC East County,,61,Everett Community College/ Early Learning Center,36,Snohomish County,Public school or school district building,15286 Fryelands Blvd,Monroe,WA,98272,Snohomish,4253889122,Amie Waters,awaters@everettcc.edu,4253889120,,40,36,69,"15286 Fryelands Blvd
+Monroe, WA 98272
+(47.8589, -122.010399)",Yes
+"1,411",Mesa Elementary ECEAP,,,Direct Service Site,"1,364",ESD 123,Public school or school district building,200 Pepiot Rd,Mesa,WA,99343,Franklin,5095445755,Corina  Flores ,coflores@esd123.org,5093802312,,19,36,69,"200 Pepiot Rd
+Mesa, WA 99343",Yes
+315,Prospect Enrichment Preschool,,101,Prospect Enrichment Preschool,6,City of Seattle ,Faith-Based Facility,1919 E. Prospect ST,SEATTLE,WA,98112,King,2063245230,Donna Guna,pepseattle@gmail.com,2063245230,,16,36,69,"1919 E Prospect ST
+SEATTLE, WA 98112
+(47.628668, -122.306381)",Yes
+318,Community Child Care Center St James,Pullman II,,Direct Service Site,7,Community Child Care Center,Faith-Based Facility,1410 NE STADIUM WAY,Pullman,WA,99163,Whitman,5093349290,Lisa Cates,lisa.c@community-childcare.org,5093327005,,20,36,69,"1410 NE STADIUM WAY
+Pullman, WA 99163
+(46.733011, -117.158763)",Yes
+"1,943",Winlock,,1941,Winlock School District,4,Centralia College,Public school or school district building,311 NW Fir St,Winlock,WA,98596,Lewis,3606238597,Teresa Schneider,teresa.schneider@centralia.edu,3606238603,,26,36,69,"311 NW Fir St
+Winlock, WA 98596
+(46.493225, -122.943633)",Yes
+"2,348",Naches,EPIC Naches,,Direct Service Site,11,Enterprise for Progress in the Community,Public school or school district building,101 Shafer Avenue,Naches,WA,98937,Yakima,5092483950,Joanna Castilla,joannac@epicnet.org,5096532524,,30,36,69,"101 Shafer Avenue
+Naches, WA 98937
+(46.73022, -120.694774)",Yes
+386,VOA-Trailside - ECEAP,Trailside ECEAP,130,Volunteers of America,36,Snohomish County,Non-Profit Organization Building,1300 B 100th Place SE,Everett,WA,98208,Snohomish,4253555193,Robin Hoover,rhoover@voaww.org,4252122941,,60,36,69,"1300 B 100th Place SE
+Everett, WA 98208
+(47.906623, -122.216546)",Yes
+178,College Place Child Development Center,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,213 Labor Camp Rd,Walla Walla,WA,99362,Walla Walla,5095220610,Martha Ibarra,martha.ibarra@inspire-centers.org,5095220610,,38,36,69,"213 Labor Camp Rd
+Walla Walla, WA 99362
+(46.011738, -118.394926)",Yes
+140,A.J. West Elementary,,,Direct Service Site,2,Aberdeen School District,Public school or school district building,1801 Bay Ave.,Aberdeen,WA,98520,Grays Harbor,3605378711,Terri Whalen,twhalen@asd5.org,3605382130,,22,36,69,"1801 Bay Ave
+Aberdeen, WA 98520
+(46.9724, -123.838253)",Yes
+282,Orcas Montessori,,94,Orcas Montessori,33,San Juan County ECEAP,Child Care Center Including Campus Child Care,1147 North Beach Road,Eastsound,WA,98245,San Juan,3603700593,Teresa Chocano,teresa@orcasmontessori.com,3603765350,3603175251,6,36,69,"1147 North Beach Road
+Eastsound, WA 98245
+(48.703479, -122.906278)",Yes
+"2,299",Stevenson,,,Direct Service Site,"1,964",Bellevue School District,Public school or school district building,14220 NE 8th St,Bellevue,WA,98007,King,4254564030,Chelsea Gray,graych@bsd405.org,4254566058,,34,36,69,"14220 NE 8th St
+Bellevue, WA 98007
+(47.617126, -122.150784)",Yes
+"2,270",Blaine Primary,Blaine Elementary ECEAP,,Direct Service Site,30,Opportunity Council,Public school or school district building,820 Boblett S,Blaine,WA,98230,Whatcom,3607348396,Jen Johnson,jen_johnson@oppco.org,3607348396,,18,36,69,"820 Boblett S
+Blaine, WA 98230",Yes
+"2,168",East Valley,,,Direct Service Site,11,Enterprise for Progress in the Community,Public school or school district building,408 East Seattle Avenue,Moxee,WA,98936,Yakima,5098956439,Adriana Rosiles-Orozco,adrianar@epicnet.org,5093675481,,40,36,69,"408 East Seattle Avenue
+Moxee, WA 98936
+(46.551092, -120.380364)",Yes
+349,Snohomish SD,Snohomish ECEAP,115,Snohomish School District,36,Snohomish County,Public school or school district building,221 Union Ave,Snohomish,WA,98290,Snohomish,3605634641,Britta Grass,britta.grass@sno.wednet.edu,3605634633,,60,36,69,"221 Union Ave
+Snohomish, WA 98290
+(47.913692, -122.093003)",Yes
+"2,088",Pinecrest Elementary School,,,Direct Service Site,16,ESD 114 - Olympic ESD,Public school or school district building,5530 Pine Rd NE,Bremerton,WA,98311,Kitsap,3604786889,Amanda Chipley,achipley@oesd114.org,3604786858,,18,36,69,"5530 Pine Rd NE
+Bremerton, WA 98311
+(47.613289, -122.639419)",Yes
+"2,404",Maple Grove Early Learning Classroom,,,Direct Service Site,10,Educational Opportunities for Children and Families,Public school or school district building,610 B SE Eaton Blvd.,Battle Ground,WA,98604,Clark,3605672724,Robin Steele,robin.steele@eocfwa.org,3605672710,,15,36,69,"610 B SE Eaton Blvd
+Battle Ground, WA 98604
+(45.766421, -122.530587)",Yes
+404,YWCA of Spokane Downtown,YWCA Spokane ECEAP Downtown,139,YWCA of Spokane,8,Community Colleges of Spokane,Non-Profit Organization Building,930 N Monroe St,Spokane,WA,99201,Spokane,5099938219,Shannon Griffiths,shannong@ywcaspokane.org,5097899294,,54,36,69,"930 N Monroe St
+Spokane, WA 99201
+(47.666612, -117.426668)",Yes
+374,Tiny Tots Development Center - Wing Luke,Tiny Tots Development Center,125,Tiny Tots Development Center,6,City of Seattle ,Public school or school district building,3701 S KENYON ST,SEATTLE,WA,98118,King,2067211188,Loralee Knudsen,lknudsen@tinytotsdc.org,2067231590,,20,36,69,"3701 S KENYON ST
+SEATTLE, WA 98118
+(47.531526, -122.284777)",Yes
+"2,166",Washougal Hathaway,,,Direct Service Site,14,ESD 112 - Vancouver,Public school or school district building,630 24th Street,Vancouver,WA,98671,Clark,3609523470,,,,,10,36,69,"630 24th Street
+Vancouver, WA 98671
+(45.581157, -122.3466)",Yes
+"2,110",Encompass Carnation ECEAP,Encompass Stepping Stone - ECEAP,58,Encompass,17,ESD 121 - Puget Sound ESD,Public school or school district building,4950 Tolt Ave,Carnation,WA,98014,King,4258444548,Julie Forslin,julie.forslin@encompassnw.org,4258882777,,18,36,69,"4950 Tolt Ave
+Carnation, WA 98014
+(47.65142, -121.911956)",Yes
+"1,975",SWCC,,1974,Community Minded Enterprises,8,Community Colleges of Spokane,Non-Profit Organization Building,310 S Spruce St,Spokane,WA,99201,Spokane,5093854896,Arrianne Maldonado,arriannem@community-minded.org,5093854896,,20,36,69,"310 S Spruce St
+Spokane, WA 99201
+(47.653325, -117.446277)",Yes
+"2,203",Growing Hope Child and Family Development Center,,,Direct Service Site,"1,361",Catholic Family and Child Services,Child Care Center Including Campus Child Care,5201 Tieton Drive,Yakima,WA,98908,Yakima,5099565575,Danielle Rasmussen,drasmussen@catholiccharitiescw.org,5099655575,,60,36,69,"5201 Tieton Drive
+Yakima, WA 98908
+(46.592695, -120.578347)",Yes
+276,Mattawa Elementary,,,Direct Service Site,39,Wahluke School District,Public school or school district building,411 E Saddle Mountain Drive,Mattawa,WA,99349,Grant,5099323875,Olga Mendez,omendez@wahluke.net,5099323875,,78,36,69,"411 E Saddle Mountain Drive
+Mattawa, WA 99349
+(46.740337, -119.896985)",Yes
+188,Deer Park Elementary,,54,Deer Park School District,8,Community Colleges of Spokane,Public school or school district building,1500 E D St,Deer Park,WA,99006,Spokane,5094645680,Angie Farmer,angie.farmer@dpsdmail.org,5094645680,,66,36,69,"1500 E D St Deer Park
+WA 99006",Yes
+"2,190",CHILDHAVEN/AUBURN BRANCH,,2189,Childhaven,17,ESD 121 - Puget Sound ESD,Non-Profit Organization Building,1345 22ND ST NE,AUBURN,WA,98002,King,2532492073,Kelly Emery,kellye@childhaven.org,2532492076,,18,36,69,"1345 22ND ST NE
+AUBURN, WA 98002
+(47.326478, -122.213212)",Yes
+297,Ocosta School District,Ocosta Elementary,91,Ocosta School District,2,Aberdeen School District,Public school or school district building,2580 Montesano St South,Westport,WA,98595,Grays Harbor,3605382251,Heather Sweet,hsweet@ocosta.org,3602689125x196,,17,36,69,"2580 Montesano St South
+Westport, WA 98595
+(46.862145, -124.101203)",Yes
+"2,360",Othello Early Childhood Center ,,,Direct Service Site,"1,364",ESD 123,Public school or school district building,1335 E. Ash St. ,Othello ,WA,99344,Adams,5095445767,Corina  Flores ,coflores@esd123.org,5093802312,,78,36,69,"1335 E Ash St
+Othello, WA 99344
+(46.819117, -119.155565)",Yes
+239,Hopkins,Hopkins Early Learning Center,,Direct Service Site,2,Aberdeen School District,Public school or school district building,1313 Pacific Avenue,Aberdeen,WA,98520,Grays Harbor,3605382251,Cyndy Mitby,cmitby@asd5.org,3605382191,,79,36,69,"1313 Pacific Avenue
+Aberdeen, WA 98520
+(46.973288, -123.831451)",Yes
+210,EPS Garfield,,62,Everett Public Schools,36,Snohomish County,Public school or school district building,2215 Pine Street,Everett,WA,98201,Snohomish,4253854730,Jamie Parker,jparker@everettsd.org,4253854730,,40,36,69,"2215 Pine Street
+Everett, WA 98201
+(47.98767, -122.192192)",Yes
+367,Tacoma Daycare And Preschool,Tacoma Daycare And Preschool,119,Tacoma Daycare & Preschool,17,ESD 121 - Puget Sound ESD,Non-Profit Organization Building,1113 South I Street,Tacoma,WA,98406,Pierce,2536275671,Rosemary Totten,tacomadaycarepre@integra.net,2536275671,,15,36,69,"1113 South I Street
+Tacoma, WA 98406
+(47.251749, -122.448751)",Yes
+"1,587",Generations ELFC,,1585,St. Francis Foundation,30,Opportunity Council,Child Care Center Including Campus Child Care,2901 Connelly Ave Suite B101,Bellingham,WA,98225,Whatcom,3607346760,,,,,8,36,69,"2901 Connelly Ave
+Bellingham, WA 98225
+(48.712828, -122.479841)",Yes
+"1,930",Rainbow Kids 3,Rainbow Kidz Union Gap,1928,Rainbow Kidz,13,ESD 105 - Yakima,Child Care Center Including Campus Child Care,3609 Tacoma Street,Union Gap,WA,98903,Yakima,5099309979,Erin Holloway,sunshone78@gmail.com,5094694812,,20,36,69,"3609 Tacoma Street
+Union Gap, WA 98903
+(46.551394, -120.474103)",Yes
+281,Montesano School District,Beacon Elementary School ,86,Montesano School District,2,Aberdeen School District,Public school or school district building,1717 Beacon Street,Montesano,WA,98563,Grays Harbor,3605378711,Shawn Brown,sbrown@monteschools.org,3602492114,,9,36,69,"1717 Beacon Street
+Montesano, WA 98563
+(46.985281, -123.581939)",Yes
+"2,282",South Everett ECEAP,,,Direct Service Site,"2,256",Edmonds College,Head Start Facility,"712 Center Road, Building AA",Everett,WA,98204,Snohomish,4257129000,Elizabeth Bias,lizz.bias@email.edcc.edu,4255821201,,68,36,69,"712 Center Road
+Building AA Everett, WA 98204
+(47.8904, -122.243017)",Yes
+226,Granite Falls Monte Cristo,,66,Granite Falls School District,36,Snohomish County,Public school or school district building,1201 100th St NE,Granite Falls,WA,98252,Snohomish,3602834513,Brittany McGinnis,bmcginnis@gfalls.wednet.edu,3602834513,,50,36,69,"1201 100th St NE Granite Falls
+WA 98252",Yes
+"2,341",SHERWOOD FOREST CHILDCARE CENTER,Sherwood Forest Early Learning,,Direct Service Site,"1,964",Bellevue School District,Public school or school district building,16411 NE 24TH ST,Bellevue,WA,98008,King,4254564030,Valerie Stoury,stouryv@bsd405.org,4254565762,,14,36,69,"16411 NE 24TH ST
+Bellevue, WA 98008
+(47.631314, -122.120236)",Yes
+"2,258",Mountlake Terrace Elementary,,2257,Edmonds School District,36,Snohomish County,Public school or school district building,22001 52nd Ave W,Mountlake Terrace,WA,98043,Snohomish,4254311018,Darcy Becker,beckerd973@edmonds.wednet.edu,4254317135,,60,36,69,"22001 52nd Ave W
+Mountlake Terrace, WA 98043
+(47.798922, -122.30312)",Yes
+"2,376",,,2375,,"2,028",Early Learning Child Development Resources,Family Child Care Home,,,WA,99216,Spokane,,,,,,2,36,69,,Yes
+144,Peninsula Artondale Elementary ECEAP,Artondale Elementary ECEAP,98,Peninsula School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,6219 - 40th St NW,Gig Harbor,WA,98335,Pierce,2535301194,Lisa Reaugh,reaughl@psd401.net,2535301082,,35,36,69,"6219 40th St NW
+Gig Harbor, WA 98335
+(47.293765, -122.622447)",Yes
+"2,175",OIC,,,Direct Service Site,11,Enterprise for Progress in the Community,Non-Profit Organization Building,1206 Fruitvale Blvd,Yakima,WA,98902,Yakima,5092483950,Michael Garcia,michaelg@epicnet.org,5095711648,,80,36,69,"1206 Fruitvale Blvd
+Yakima, WA 98902
+(46.61256, -120.523162)",Yes
+317,Community Child Care Center Greyhound Way,Pullman I,,Direct Service Site,7,Community Child Care Center,Head Start Facility,530 NW Greyhound Way,Pullman,WA,99163,Whitman,5093349290,Mary McDonald,mary@community-childcare.org,5093349290,5093327005,19,36,69,"530 NW Greyhound Way
+Pullman, WA 99163
+(46.745921, -117.185577)",Yes
+"1,989",Issaquah Briarwood,Briarwood Elementary,1988,Issaquah School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,17020 SE 134th St,Renton,WA,98059,King,4258374990,Shannon Inton,intons@issaquah.wednet.edu,4258374991,,35,36,69,"17020 SE 134th St
+Renton, WA 98059
+(47.482473, -122.114181)",Yes
+"2,276",Betz Elementary,,2204,Cheney School District,8,Community Colleges of Spokane,Public school or school district building,317 N 7th Street,Cheney,WA,99004,Spokane,5095594426,Emma Noble,enoble@cheneysd.org,5095594507,,42,36,69,"317 N 7th Street
+Cheney, WA 99004
+(47.496065, -117.577751)",Yes
+"1,393",INNOVATIVE SERVICE NW CCC,ISNW,,Direct Service Site,"1,365",Innovative Services NW,Child Care Center Including Campus Child Care,9414 NE FOURTH PLAIN,VANCOUVER,WA,98662,Clark,3608235144,Melody Partridge,mpartridge@innovativeservicesnw.org,3608235144,,76,36,69,"9414 NE FOURTH PLAIN
+VANCOUVER, WA 98662
+(45.656987, -122.576073)",Yes
+"2,357",Whitstran ,,,Direct Service Site,"1,364",ESD 123,Public school or school district building,102101 W. Foisy Rd.,Prosser,WA,99350,Benton,5095445767,Tammy Moody,tmoody@esd123.org,5093802812,,20,36,69,"102101 W Foisy Rd
+Prosser, WA 99350
+(46.235735, -119.707823)",Yes
+308,Parkway,,,Direct Service Site,23,Lewis-Clark Early Childhood Program,Public school or school district building,1103 4th Street,Clarkston,WA,99403,Asotin,5097519890,Kathy  Manwaring,kmanwaring@lcecp.org,5097696149,,38,36,69,"1103 4th Street
+Clarkston, WA 99403
+(46.408109, -117.043182)",Yes
+"1,494",Marion Forsman-Boushie Early Learning Center,,,Direct Service Site,725,Suquamish Tribe,Tribal Organization building,5283 TOTTEN ROAD,POULSBO,WA,98370,Kitsap,3603948585,Jennifer Segerman,jsegerman@oes114.org,,,18,36,69,"5283 TOTTEN ROAD
+POULSBO, WA 98370
+(47.722726, -122.577659)",Yes
+213,EPS Silver Lake,,62,Everett Public Schools,36,Snohomish County,Public school or school district building,12815 Bothell-Everett Hwy,Everett,WA,98208,Snohomish,4253856960,Monica Kachmarik,mkachmarik@everettsd.org,4253854628,,80,36,69,"12815 Bothell-Everett Hwy
+Everett, WA 98208
+(47.881485, -122.2068)",Yes
+"2,386",Tiger Cub Preschool,Ephrata Preschool at Sage Hills,,Direct Service Site,"2,339",Ephrata School District,Public school or school district building,35 K Street SE,Ephrata ,WA,98823,Grant,5097547547,Michelle Willis,mwillis@ephrataschools.org,5097547547,,75,36,69,"35 K Street SE
+Ephrata, WA 98823
+(47.317424, -119.536574)",Yes
+"2,173",Federal Way Uptown Square,Uptown Square,64,Federal Way School District,17,ESD 121 - Puget Sound ESD,Other,1066 S. 320th ST,Federal Way,WA,98003,King,2539452379,April Austin,aaustin@fwps.org,2539455716,,132,36,69,"1066 S 320th ST
+Federal Way, WA 98003
+(47.315157, -122.318123)",Yes
+373,Tukwila Thorndyke Elementary,,126,Tukwila School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,4415 S 150th St,Tukwila,WA,98188,King,2069017648,Amy Brown,brownam@tukwila.wednet.edu,2069017648,,40,36,69,"4415 S 150th St
+Tukwila, WA 98188
+(47.468696, -122.276636)",Yes
+"2,252",Leaps & Bounds Child Care & Early Learning,,2251,Leaps & Bounds,15,ESD 113 - Sound to Harbor Early Learning Programs,Child Care Center Including Campus Child Care,407 103rd Avenue NE,Yelm,WA,98597,Thurston,3604582273,Brenda Engelhart,leaping.bounds@yahoo.com,3604582273,,15,36,69,"407 103rd Avenue NE
+Yelm, WA 98597
+(46.938111, -122.594)",Yes
+233,Heather Commons,,,Direct Service Site,30,Opportunity Council,Non-Profit Organization Building,4163 Deemer Rd,Bellingham,WA,98226,Whatcom,3607345121x352,Renee Reece,renee_morey@oppco.org,3607348396,,18,36,69,"4163 Deemer Rd
+Bellingham, WA 98226
+(48.79289, -122.479282)",Yes
+"1,933",Captain Strong Primary School,,,Direct Service Site,14,ESD 112 - Vancouver,Public school or school district building,1002 NW 6th Ave,Battle Ground,WA,98604,Clark,3607507500,Marissa Ellis,marissa.ellis@esd112.org,3609523531,,25,36,69,"1002 NW 6th Ave
+Battle Ground, WA 98604
+(45.788732, -122.543802)",Yes
+"2,400",Chelan Douglas Services Westside Center,,,Direct Service Site,5,Chelan-Douglas Child Services Association,Non-Profit Organization Building,1510 9th Street,Wenatchee,WA,98801,Chelan,5096635179,Shannon Abbott,sabbott@cdcsa.com,5096635179,,12,36,69,"1510 9th Street
+Wenatchee, WA 98801
+(47.432714, -120.340179)",Yes
+"2,027",Salish School of Spokane ECEAP Center,,1433,Salish School of Spokane,8,Community Colleges of Spokane,Tribal Organization building,4117 N Maple,Spokane,WA,99205,Spokane,5093252018,Cindy Reeves,cindy@salishschoolofspokane.org,5093252018,,7,36,69,"4117 N Maple
+Spokane, WA 99205
+(47.696011, -117.4351)",Yes
+"2,401",Auburn Pioneer – OMS on K St,Auburn old Olympic MS on K St,673,Auburn School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,1825 K Street SE,Auburn,WA,98002,King,2539314946,Lyndi Dowden-Hughes,sdowden-hughes@auburn.wednet.edu,2538872532,,38,36,69,"1825 K Street SE
+Auburn, WA 98002
+(47.291936, -122.216033)",Yes
+"2,017",Refugee and Immigrant Family Center,,1992,Sound Child Care Solutions,6,City of Seattle ,Non-Profit Organization Building,6535 DELRIDGE WAY SW,Seattle,WA,98106,King,2067676896,Luz Casio,lcasio@soundchild.org,2067676896,,30,36,69,"6535 DELRIDGE WAY SW
+Seattle, WA 98106
+(47.543262, -122.361213)",Yes
+286,Highline Mt. Rainier ECEAP,Mt. Rainier High School,67,Highline School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,22450 19th Ave South,Des Moines,WA,98198,King,2066315109,Darlene Ouillette,Darlene.Ouillette@highlineschools.org,2066315107,,36,36,69,"22450 19th Ave South
+Des Moines, WA 98198
+(47.399065, -122.309118)",Yes
+"2,261",Early Learning Center,Richland School District,,Direct Service Site,31,Richland School District,Public school or school district building,1525 Hunt Ave,Richland,WA,99354,Benton,5099676082,Katey Bryan,Katey.Bryan@rsd.edu,5099676062,,130,36,69,"1525 Hunt Ave
+Richland, WA 99354
+(46.292772, -119.271735)",Yes
+"1,944",SWCCC PATRICIA NIERENBERG CC&EARLY LRN,,,Direct Service Site,14,ESD 112 - Vancouver,Child Care Center Including Campus Child Care,105 S LIESER ROAD,Vancouver,WA,98664,Clark,3607507500,Aubrie VanDuker,aubrie.vanduker@childrennorthwest.org,3606995437,,10,36,69,"105 S LIESER ROAD
+Vancouver, WA 98664
+(45.620443, -122.585573)",Yes
+365,PCHS Sumner ECEAP,PCHS Sumner,99,Pierce County Human Services,17,ESD 121 - Puget Sound ESD,Public school or school district building,"1503 Valley Ave., Suite P2",Sumner,WA,98390,Pierce,2538633137,Delfina King,delfina.king@piercecountywa.gov,2538263087,,60,36,69,"1503 Valley Ave
+Sumner, WA 98390",Yes
+"2,018",Spokane Tribe of Indians ECEAP,,2015,Spokane Tribe of Indians ECEAP,12,ESD 101 - NEW ESD,Tribal Organization building,232 E LYONS AVE,Spokane,WA,99208,Spokane,5095331360,Angela Arnoux-Cutler,angelaa@spokanetribe.com,5095331360x263,,11,36,69,"232 E LYONS AVE
+Spokane, WA 99208
+(47.718611, -117.406582)",Yes
+"1,431",Carroll Children's Center,,,Direct Service Site,"1,361",Catholic Family and Child Services,Non-Profit Organization Building,5301 Tieton Drive Suite C,Yakima,WA,98908,Yakima,5099657140,Danielle Rasmussen,drasmussen@catholiccharitiescw.org,5099655575,,40,36,69,"5301 Tieton Drive
+Suite C Yakima, WA 98908
+(46.592707, -120.580426)",Yes
+"2,128",CHILDRENS VILLAGE BR INC,,2127,Children's Village,14,ESD 112 - Vancouver,Child Care Center Including Campus Child Care,2904 NE BURTON RD,Vancouver,WA,98662,Clark,3609523470,Angela Benedict,angela@childrensvillageinc.com,3609440123,,18,36,69,"2904 NE BURTON RD
+Vancouver, WA 98662
+(45.643713, -122.597278)",Yes
+356,Lincoln Heights Elementary,,116,Spokane Public Schools,8,Community Colleges of Spokane,Public school or school district building,3322 E. 22nd Ave,Spokane,WA,99223,Spokane,5093543336,Juliana Greiner,julianag@spokaneschools.org,5093543336,,27,36,69,"3322 E 22nd Ave
+Spokane, WA 99223
+(47.6344, -117.361835)",Yes
+"1,517",Ki-Be Pre-K ECEAP,,,Direct Service Site,"1,366",Kiona-Benton City SD,Public school or school district building,1107 Grace Avenue,Benton City,WA,99320,Benton,5095882194,Jennifer McCloud,jmccloud@kibesd.org,5095882097,,36,36,69,"1107 Grace Avenue
+Benton City, WA 99320
+(46.270937, -119.491084)",Yes
+"1,531",KYFS Kent Valley Early Learning Center,KVELC,71,Kent Youth And Family Service,17,ESD 121 - Puget Sound ESD,Public school or school district building,317 4TH AVE S,Kent,WA,98032,King,2356309590,Alice Humphres,Alice.Humphres@kent.k12.wa.us,2533737600,,20,36,69,"317 4TH AVE S
+Kent, WA 98032
+(47.379447, -122.237462)",Yes
+291,Tacoma NE Tacoma Elementary ECEAP,,120,Tacoma School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,5412 - 29th St NE,Tacoma,WA,98422,Pierce,2535716986,Ana Castellanos,acastel@tacoma.k12.wa.us,2535712615,,20,36,69,"5412 29th St NE
+Tacoma, WA 98422
+(47.282731, -122.374542)",Yes
+"2,211",Auburn Messiah ECEAP,Auburn Messiah Lutheran Church ECEAP,673,Auburn School District,17,ESD 121 - Puget Sound ESD,Faith-Based Facility,410 H Street NE,Auburn,WA,98002,King,2539314943,,,,,56,36,69,"410 H Street NE
+Auburn, WA 98002
+(47.311738, -122.219527)",Yes
+"1,409",West Valley - Ahtanum,,,Direct Service Site,11,Enterprise for Progress in the Community,Public school or school district building,3006 S Wiley Rd,Yakima,WA,98903,Yakima,5092483950,Crystal Ullas,crystalu@epicnet.org,5099725505,,36,36,69,"3006 S Wiley Rd
+Yakima, WA 98903
+(46.548949, -120.64978)",Yes
+"1,978",Franklin Pierce Early Learning Center,Franklin Pierce ELC,674,Franklin Pierce School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,12223 A St. South,Tacoma,WA,98444,Pierce,2532984675,Marlys Fisher,mfisher@fpschools.org,2532984688,,102,36,69,"12223 A St South
+Tacoma, WA 98444
+(47.145581, -122.431695)",Yes
+370,Tekoa,,124,Tekoa School District,7,Community Child Care Center,Public school or school district building,North 135 College,Tekoa,WA,99133,Whitman,5093349290,Connie Kliewer,ckliewer@tekoa.wednet.edu,5092843281,,8,36,69,"135 College
+Tekoa, WA 99133
+(47.221748, -117.066934)",Yes
+"1,503",Vashon Island ECEAP,Chautauqua Elementary,1500,Vashon Island School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,9309 SW Cemetery Road,Vashon,WA,98070,King,2064632121,Sally Adam,sadam@vashonsd.org,2064638594,,20,36,69,"9309 SW Cemetery Road
+Vashon, WA 98070
+(47.429222, -122.452615)",Yes
+"2,398",Bethel North Star,,44,Bethel School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,7719 224th St. East,Graham,WA,98338,Pierce,2536838800,Rebecca Willis,rewillis@bethelsd.org,2538008857,,18,36,69,"7719 224th St East
+Graham, WA 98338
+(47.053368, -122.328142)",No
+259,Tahoma Lake Wilderness ECEAP,Lake Wilderness Elementary,122,Tahoma School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,24216 Witte Rd SE,Maple Valley,WA,98038,King,4254133577,Kelly Ward,kward@tahomasd.us,4254133290x9800,,18,36,69,"24216 Witte Rd SE
+Maple Valley, WA 98038
+(47.384355, -122.048064)",Yes
+"2,101",Hoover ECEAP,,134,Yakima School District,11,Enterprise for Progress in the Community,Public school or school district building,400 West Viola,Yakima,WA,98902,Yakima,5095735980,Erica Almaguer,almaguer.erica@yakimaschools.org,5095735900,,18,36,69,"400 West Viola
+Yakima, WA 98902
+(46.581572, -120.511472)",Yes
+"1,600",Anacortes ECEAP,Skagit Valley College Anacortes ECEAP,,Direct Service Site,"1,948",Skagit Valley College Head Start & ECEAP,Faith-Based Facility,2201 H Avenue,Anacortes,WA,98221,Skagit,3606795348,Magi Aguilar,margarita.aguilar@skagit.edu,3608738167,,20,36,69,"2201 H Avenue
+Anacortes, WA 98221
+(48.503742, -122.625206)",Yes
+"2,136",Clover Park Evergreen ECEAP,Clover Park Evergreen Elementary,51,Clover Park School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,9020 Blaine Ave,JBLM-Lewis Main,WA,98433,Pierce,2535835255,Dayna Brown,dmbrown@cloverpark.k12.wa.us,2535835255x3,,38,36,69,"9020 Blaine Ave
+JBLM-Lewis Main, WA 98433
+(47.109269, -122.565083)",Yes
+249,Kellogg - ECEAP,,,Direct Service Site,30,Opportunity Council,Child Care Center Including Campus Child Care,237 W Kellogg Road,Bellingham,WA,98225,Whatcom,3607345121x352,Sue Johnson,sue_johnson@oppco.org,3603833160,3607348396x387,36,36,69,"237 W Kellogg Road
+Bellingham, WA 98225
+(48.795791, -122.499961)",Yes
+603,Y's Care (ECEAP Partner),Y's Care,138,YWCA of Clark County Y's Care,10,Educational Opportunities for Children and Families,Non-Profit Organization Building,3609 MAIN STREET,VANCOUVER,WA,98663,Clark,3605672720,Leah Reitz,lreitz@ywcaclarkcounty.org,3609069128,3609069127,12,36,69,"3609 MAIN STREET
+VANCOUVER, WA 98663
+(45.647764, -122.668177)",Yes
+"1,403",St. Johns,,,Direct Service Site,10,Educational Opportunities for Children and Families,Public school or school district building,1904 ST JOHNS BLVD,VANCOUVER,WA,98663,Clark,3605672720,Judi Chung,judi.chung@eocfwa.org,3605672787,,33,36,69,"1904 ST JOHNS BLVD
+VANCOUVER, WA 98663
+(45.64053, -122.651211)",Yes
+"1,395",Hathaway,,,Direct Service Site,10,Educational Opportunities for Children and Families,Public school or school district building,630 24th Street,Washougal,WA,98671,Clark,3605672720,Gini Engh,gini.engh@eocfwa.org,3605672786,,18,36,69,"630 24th Street
+Washougal, WA 98671
+(45.581157, -122.3466)",Yes
+"2,396",Bridgeport,,2344,Bridgeport,5,Chelan-Douglas Child Services Association,Public school or school district building,1400 Tacoma Ave,Bridgeport,WA,98813,Douglas,5096635179,Shannon Abbott,sabbott@cdcsa.com,5096635179,,30,36,69,"1400 Tacoma Ave
+Bridgeport, WA 98813
+(48.006278, -119.674697)",No
+305,Othello Child Development Center,,,Direct Service Site,41,Inspire Development Centers,Child Care Center Including Campus Child Care,750 N 7th St,Othello,WA,99344,Adams,5094883502,Alejandra Vasquez,alejandra.vasquez@inspire-centers.org,5094883502,,40,36,69,"750 N 7th St
+Othello, WA 99344
+(46.833075, -119.164888)",Yes
+"1,496",New Holly,,,Direct Service Site,711,Neighborhood House,Non-Profit Organization Building,7054 32nd Ave S,Seattle,WA,98118,King,2064618430,Shannon   Watson,shannonw@nhwa.org,2065364536,,60,36,69,"7054 32nd Ave S
+Seattle, WA 98118
+(47.539413, -122.291066)",Yes
+201,El Centro de la Raza,José Marti Child Development Center,56,El Centro de la Raza,6,City of Seattle ,Non-Profit Organization Building,2524 16TH AVE S,SEATTLE,WA,98144,King,2069574637,Hilda Magaña,hmagana@elcentrodelaraza.org,2069574627,,40,36,69,"2524 16TH AVE S
+SEATTLE, WA 98144
+(47.580229, -122.312129)",Yes
+"2,411",VOTCFC @ boys and Girls club,,,Direct Service Site,"2,340",Voices of Tomorrow,Child Care Center Including Campus Child Care,9800 8th Ave SW #105,Seattle,WA,98106,King,2064661229,Shelby Lux,slux@tomorrowvoices.org,2064661229x303,,20,36,69,"9800 8th Ave SW
+Seattle, WA 98106
+(47.515642, -122.345302)",Yes
+"2,091",CV EARLY LEARNING CENTER,CV ELC,,Direct Service Site,"1,362",Central Valley School District,Public school or school district building,15111 E Sprague Ave,Spokane Valley,WA,99037,Spokane,5095585810,Nichole Harwood,nharwood@cvsd.org,5092285825,,350,36,69,"15111 E Sprague Ave
+Spokane Valley, WA 99037
+(47.657186, -117.201201)",Yes
+"2,016",Lummi Early Learning Center,Lummi Indian Nation Child Care,,Direct Service Site,"1,949",Lummi Indian Business Council,Tribal Organization building,2645 Kwina Rd,Bellingham,WA,98226,Whatcom,3603122447,Nicole Kinley,nicolek@lummi-nsn.gov,3603122447,,40,36,69,"2645 Kwina Rd
+Bellingham, WA 98226
+(48.793821, -122.626348)",Yes
+"2,084",Medical Lake,Medical Lake YWCA ECEAP ,139,YWCA of Spokane,8,Community Colleges of Spokane,Non-Profit Organization Building,119 N Lefevre,Medical Lake,WA,99022,Spokane,5092907184,Natasha  Schulz ,natashas@ywcaspokane.org,5092907184,,24,36,69,"119 N Lefevre Medical Lake
+WA 99022
+(47.573629, -117.682701)",Yes
+203,Encompass North Bend  ECEAP,,58,Encompass,17,ESD 121 - Puget Sound ESD,Non-Profit Organization Building,1407 Boalch Ave NW,North Bend,WA,98045,King,4258882777,Julie Forslin,julie.forslin@encompassnw.org,4258882777,,42,36,69,"1407 Boalch Ave NW
+North Bend, WA 98045
+(47.505717, -121.795641)",Yes
+"2,104",Wee Are The World Right Start,Right Start,2103,Wee Are The World - Right Start,6,City of Seattle ,Child Care Center Including Campus Child Care,3756 Rainier Ave S. #E,Seattle,WA,98118,King,2067259136,Ariel Jefferson,ariel.jefferson@aol.com,2067259136,,9,36,69,"3756 Rainier Ave S
+E Seattle, WA 98118
+(47.569794, -122.290742)",Yes
+"2,122",Summit Valley SD ECEAP,Summit Valley ECEAP,,Direct Service Site,12,ESD 101 - NEW ESD,Public school or school district building,2360-A Addy-Gifford Road,Addy,WA,99101,Stevens,5093232720,Kristina Allen,kallen@svalley.k12.wa.us,5099356362,,9,36,69,"2360-A Addy-Gifford Road
+Addy, WA 99101
+(48.305837, -117.974263)",Yes
+"2,111",Blossoms Early Learning Center,,,Direct Service Site,13,ESD 105 - Yakima,Child Care Center Including Campus Child Care,411 N 4th Street,Yakima,WA,98901,Yakima,5094949591,Concepcion Zaragoza,Connie.Zaragoza@esd105.org,5097289861,,77,36,69,"411 N 4th Street
+Yakima, WA 98901
+(46.609019, -120.504361)",Yes
+350,South Bend Early Learning Center,,,Direct Service Site,37,South Bend School District,Public school or school district building,409 EAST FIRST STREET,SOUTH BEND,WA,98586,Pacific,3608755327,Amy Nelson,anelson@southbendschools.org,3608755327,,37,36,69,"409 EAST FIRST STREET
+SOUTH BEND, WA 98586
+(46.662257, -123.791974)",Yes
+319,Bates Puyallup ECEAP,@First Presbyterian Church,43,Bates Technical College,17,ESD 121 - Puget Sound ESD,Faith-Based Facility,412 W Pioneer,Puyallup,WA,98371,Pierce,2536040003,Antonia Rolon Garcia,arolongarcia@bates.ctc.edu,2536040003,,80,36,69,"412 W Pioneer
+Puyallup, WA 98371
+(47.190434, -122.298079)",Yes
+155,PCHS Bonney Lake ECEAP,PCHS Bonney Lake,99,Pierce County Human Services,17,ESD 121 - Puget Sound ESD,Public school or school district building,12202 209th Ave Ct. E,Bonney Lake,WA,98391,Pierce,2538625260,Christine Adams,christine.adams@piercecountywa.gov,2537708269,,40,36,69,"12202 209th Ave Ct E
+Bonney Lake, WA 98391
+(47.145511, -122.150897)",Yes
+"1,436",INACTIVE - Kid's Korner,,1584,INACTIVE Baby CareAge Inc.,30,Opportunity Council,Child Care Center Including Campus Child Care,1903 ALABAMA ST,BELLINGHAM,WA,98226,Whatcom,3607343858,Kellie McBeath,kdskrnr1903@yahoo.com,3607343858,,0,36,69,"1903 ALABAMA ST
+BELLINGHAM, WA 98226
+(48.76301, -122.448423)",Yes
+194,Trent Elementary,,55,East Valley School District,8,Community Colleges of Spokane,Public school or school district building,3303 N Pines Rd,Spokane Valley,WA,99206,Spokane,5098934123,Karen  Cloninger,cloningerk@evsd.org,5092415045,,68,36,69,"3303 N Pines Rd
+Spokane Valley, WA 99206
+(47.687313, -117.239688)",Yes
+256,Lake Chelan School District,,73,Lake Chelan School District,25,Manson School District,Public school or school district building,324 E. Johnson Avenue,Chelan,WA,98816,Chelan,5096827721,,,,,26,36,69,"324 E Johnson Avenue
+Chelan, WA 98816
+(47.840744, -120.013277)",Yes
+"2,109",Causey's Learning Center at MLK Family Home Facility,,1374,Causey's Learning Center,6,City of Seattle ,Child Care Center Including Campus Child Care,1855 S Lane 20th,Seattle,WA,98144,King,2063290921,Ruth Brown,cslcenter@qwestoffice.net,2063290921,,12,36,69,"1855 S Lane
+Seattle, WA 98144
+(47.596636, -122.306528)",Yes
+206,EVCC-Early Learning Center,,61,Everett Community College/ Early Learning Center,36,Snohomish County,Child Care Center Including Campus Child Care,820 WAVERLY AVE,Everett,WA,98201,Snohomish,4253889302,Amie Waters,awaters@everettcc.edu,4253889120,,36,36,69,"820 WAVERLY AVE
+Everett, WA 98201
+(48.006794, -122.199312)",Yes
+247,Kaleidoscope Day Care,Orcas Daycare Association,70,Kaleidoscope,33,San Juan County ECEAP,Child Care Center Including Campus Child Care,1292 NORTH BEACH RD,EASTSOUND,WA,98245,San Juan,3603700593,Amber Paulsen,Kaleidoscope@orcasonline.com,3603762484,,21,36,69,"1292 NORTH BEACH RD
+EASTSOUND, WA 98245
+(48.707106, -122.906296)",Yes
+"2,361",Green Mountain,,,Direct Service Site,16,ESD 114 - Olympic ESD,Public school or school district building,3860 Boundary Trail NW,Bremerton,WA,98312,Kitsap,3604786889,Molly Ungren,mungren@oesd114.org,3608305598,,17,36,69,"3860 Boundary Trail NW
+Bremerton, WA 98312
+(47.599005, -122.820679)",No
+"1,437",Bates Early Childhood Learning Center,,43,Bates Technical College,17,ESD 121 - Puget Sound ESD,Child Care Center Including Campus Child Care,1101 SO YAKIMA AVENUE #M-117,TACOMA,WA,98405,Pierce,2536807321,Gladys Mondragon,gmondragon@batestech.edu,2536807321,,31,36,69,"1101 SO YAKIMA AVENUE
+TACOMA, WA 98405
+(47.251881, -122.447248)",Yes
+141,Adams Elementary (YSD),Adams Elementary (YSD),134,Yakima School District,11,Enterprise for Progress in the Community,Public school or school district building,723 S. 8th Street,Yakima,WA,98901,Yakima,5095735151,Erica Wallace,wallace.erica@yakimaschools.org,5095735125,,54,36,69,"723 S 8th Street
+Yakima, WA 98901
+(46.594825, -120.491183)",Yes
+"1,357",Clover Park Rainier ECEAP,,51,Clover Park School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,2410 Stryker Ave ,JBLM,WA,98433,Pierce,2535835360,Santita Rivera,srivera@cloverpark.k12.wa.us,2535835001x2243,,39,36,69,"2410 Stryker Ave
+JBLM, WA 98433
+(47.085378, -122.609752)",Yes
+"2,193",Rock Island,,,Direct Service Site,11,Enterprise for Progress in the Community,Public school or school district building,5645 Rock Island Avenue,Rock Island,WA,98850,Douglas,5098881813,Irma Gomez,irmag@epicnet.org,5094493338,,40,36,69,"5645 Rock Island Avenue Rock Island
+WA 98850
+(47.376916, -120.155098)",Yes
+"2,284",Federal Way Panther Lake ECEAP,,64,Federal Way School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,34424 1st AVE S,Federal Way,WA,98003,King,2539452379,Cynthia Aldrich,caldrich@fwps.org,2539453630,,19,36,69,"34424 1st AVE S
+Federal Way, WA 98003
+(47.292352, -122.334743)",Yes
+"2,126",Central Whidbey,Central Whidbey ECEAP,,Direct Service Site,"1,948",Skagit Valley College Head Start & ECEAP,Non-Profit Organization Building,180 Parker Road,Coupeville,WA,98239,Island,3606795348,Annie Payne,annie.payne@skagit.edu,3606795382,,20,36,69,"180 Parker Road
+Coupeville, WA 98239
+(48.209724, -122.634495)",Yes
+"1,404",Woodland,,,Direct Service Site,10,Educational Opportunities for Children and Families,Public school or school district building,600 Bozarth at 5th,Woodland,WA,98674,Cowlitz,3605672720,Karla Castaneda,karla.castaneda@eocfwa.org,3608418363,,16,36,69,"600 Bozarth
+Woodland, WA 98674
+(45.901848, -122.753498)",Yes
+294,North Whidbey,North Whidbey ECEAP,,Direct Service Site,"1,948",Skagit Valley College Head Start & ECEAP,College/University - not child care,1051 NE 21st Court,Oak Harbor,WA,98277,Island,3606795348,Annie Payne,annie.payne@skagit.edu,3606795382,,77,36,69,"1051 NE 21st Court
+Oak Harbor, WA 98277
+(48.315759, -122.64557)",Yes
+"1,401",Orchards,,,Direct Service Site,10,Educational Opportunities for Children and Families,Public school or school district building,11405 NE 69th St,Vancouver,WA,98662,Clark,3605672720,Sharon Yancy,sharon.yancy@eocfwa.org,3605672793,,18,36,69,"11405 NE 69th St
+Vancouver, WA 98662
+(45.673216, -122.557539)",Yes
+268,Manson Elementary,,,Direct Service Site,25,Manson School District,Public school or school district building,N 950 Totem Pole Rd,Manson,WA,98831,Chelan,5096879502,Brittany Sivertson,Bsivertson@manson.org,5096879502,,24,36,69,"950 Totem Pole Rd
+Manson, WA 98831
+(47.890354, -120.153932)",Yes
+"2,352",Prescott Elementary School,,,Direct Service Site,"1,364",ESD 123,Public school or school district building,207 South A Street,Prescott ,WA,99348,Walla Walla,5095445767,Jenyfer Reese,jreese@wwps.org,5095261781,,20,36,69,"207 South A Street
+Prescott, WA 99348
+(46.297594, -118.319252)",Yes
+"2,254",YMCA of Grays Harbor at Hoquiam,,2253,YMCA of Grays Harbor,15,ESD 113 - Sound to Harbor Early Learning Programs,Child Care Center Including Campus Child Care,2500 Simpson Avenue,Hoquiam,WA,98550,Grays Harbor,3605379622,Allegra Hood,ahood@ghymca.net,3605379622x134,,9,36,69,"2500 Simpson Avenue
+Hoquiam, WA 98550
+(46.975246, -123.867162)",Yes
+"2,292",TOMORROWS HOPE,,2291,Housing Hope,"2,256",Edmonds College,Non-Profit Organization Building,5910 EVERGREEN WAY,Everett,WA,98203,Snohomish,4257129000,,,,,8,36,69,"5910 EVERGREEN WAY
+Everett, WA 98203
+(47.944313, -122.216765)",Yes
+180,Connell Child Development Center,Inspire Development Center - Connell,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,600 E Adams St,Connell,WA,99326,Franklin,5092342151,Hortencia Salas,5308@inspire-centers.org,5092342151,,30,36,69,"600 E Adams St
+Connell, WA 99326
+(46.662266, -118.855103)",Yes
+277,McCleary School District,McCleary Elementary,84,McCleary School District,2,Aberdeen School District,Public school or school district building,611 S. Main,McCleary,WA,98557,Grays Harbor,3605377403,Shannon Ramsey,sramsey@mccleary.wednet.edu,3604953204,,6,36,69,"611 S Main
+McCleary, WA 98557
+(47.049431, -123.264681)",Yes
+"2,391",REWA Lake City Early Learning Center,,105,Refugee Women's Alliance,6,City of Seattle ,Child Care Center Including Campus Child Care,2828 NE 127th St,Seattle,WA,98125,King,2067182755,Janaty Carana,Janaty@rewa.org,2067438515,,30,36,69,"2828 NE 127th St
+Seattle, WA 98125
+(47.721105, -122.297166)",Yes
+"2,392",Highline Seahurst,Seahurst Elementary,67,Highline School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,14603 14th Ave SW,Burien,WA,98166,King,2066314800,,,,,36,36,69,"14603 14th Ave SW
+Burien, WA 98166
+(47.471665, -122.352618)",Yes
+232,Silverstar,Silverstar Elementary,,Direct Service Site,10,Educational Opportunities for Children and Families,Public school or school district building,10500 NE 86th Street,Vancouver,WA,98662,Clark,3605672720,Lisa Vandelden,lisa.vandelden@eocfwa.org,3605671707,,30,36,69,"10500 NE 86th Street
+Vancouver, WA 98662
+(45.684135, -122.565147)",Yes
+"2,184",Starcrest,Starcrest,,Direct Service Site,10,Educational Opportunities for Children and Families,Head Start Facility,9920 NE Highway 99,Vancouver,WA,98686,Clark,3608969912,Maggie Gillespie,maggie.gillespie@eocfwa.org,3608969912,,36,36,69,"9920 NE Highway
+Vancouver, WA 98686",Yes
+"2,283",Bilingual Learning Ctr - Edison Street,,2268,Bilingual Learning Center ,"1,364",ESD 123,Child Care Center Including Campus Child Care,1110 North Edison Street,Kennewick,WA,99336,Benton,5096190855,Yolanda Robison,bilingctr@yahoo.com,5093668261,,20,36,69,"1110 North Edison Street
+Kennewick, WA 99336
+(46.221754, -119.191654)",Yes
+"2,300",Issaquah Valley Elementary ECEAP,IVE ECEAP,1988,Issaquah School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,555 NW Holly Street,Issaquah,WA,98027,King,4258376655,Shannon Inton,intons@issaquah.wednet.edu,4258374991,,18,36,69,"555 NW Holly Street
+Issaquah, WA 98027
+(47.537666, -122.042085)",Yes
+351,PCHS South Hill ECEAP,PCHS South Hill,99,Pierce County Human Services,17,ESD 121 - Puget Sound ESD,Public school or school district building,13008 94th Ave E,Puyallup,WA,98373,Pierce,2534457973,Christine Adams,christine.adams@piercecountywa.gov,2537708269,,60,36,69,"13008 94th Ave E
+Puyallup, WA 98373
+(47.138237, -122.303989)",Yes
+234,Heritage University Early Learning CTR,,612,Heritage University,13,ESD 105 - Yakima,Child Care Center Including Campus Child Care,3241 FORT ROAD,TOPPENISH,WA,98948,Yakima,5098658630,Alma Ayala,ayala_a@heritage.edu,5098658630,,25,36,69,"3241 FORT ROAD
+TOPPENISH, WA 98948
+(46.375317, -120.398442)",Yes
+292,Bethel Nelson ECEAP,Bethel Nelson,44,Bethel School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,22109 108th Ave E,Graham,WA,98338,Pierce,2536836422,Brigitte Vercoutere,bvercouter@bethelsd.org,2538006422,,35,36,69,"22109 108th Ave E
+Graham, WA 98338
+(47.054882, -122.286971)",Yes
+"2,285",CARRUSEL CHILD CARE CENTER,,2267,Carrusel ,"1,364",ESD 123,Child Care Center Including Campus Child Care,1108 Grace Avenue,Benton City,WA,99320,Benton,5095882900,Rosa  Cardenas ,carruselchildcarecenter@yahoo.com,5095882900,,20,36,69,"1108 Grace Avenue
+Benton City, WA 99320
+(46.270939, -119.491171)",Yes
+261,Lakewood SD (Snohomish),,75,Lakewood School District,36,Snohomish County,Public school or school district building,17000 16th Dr. NE,Marysville,WA,98271,Snohomish,3606542135,Barbara Hammond,bhammond@lwsd.wednet.edu,3606186434,,32,36,69,"17000 16th Dr NE
+Marysville, WA 98271
+(48.149962, -122.207941)",Yes
+251,KYFS Kent Valley ECEAP,,71,Kent Youth And Family Service,17,ESD 121 - Puget Sound ESD,Faith-Based Facility,225 WEST SAAR,Kent,WA,98032,King,2538548768,Diane Short,DianeS@kyfs.org,2538548768,,38,36,69,"225 WEST SAAR
+Kent, WA 98032
+(47.378624, -122.234351)",Yes
+"1,454",Auburn Terminal Park Elementary,,673,Auburn School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,1101 D Street SE,Auburn,WA,98002,King,2539314943,Jenny Murphy,jamurphy@auburn.wednet.edu,2539314943,,38,36,69,"1101 D Street SE
+Auburn, WA 98002
+(47.297918, -122.224067)",Yes
+314,Primm ABC Preschool And Child Care,Primm ABC ChildCare,100,Primm ABC Preschool And Child Care CTR,6,City of Seattle ,Faith-Based Facility,4455 S BRANDON ST,SEATTLE,WA,98118,King,2067232038,Sandra Nelson,primmabc@outlook.com,2067232038,,10,36,69,"4455 S BRANDON ST
+SEATTLE, WA 98118
+(47.553406, -122.276902)",Yes
+392,White Salmon Early Learning Center,,,Direct Service Site,14,ESD 112 - Vancouver,Public school or school district building,520 Loop Road,White Salmon,WA,98672,Klickitat,3607507500x342,,,,,13,36,69,"520 Loop Road
+White Salmon, WA 98672
+(45.739418, -121.494469)",Yes
+"1,479",South Bend School District ECEAP,,,Direct Service Site,37,South Bend School District,Public school or school district building,508 Broadway,South Bend,WA,98586,Pacific,3608755327x1,Amy Nelson,anelson@southbendschools.org,3608755327,,29,36,69,"508 Broadway South Bend
+WA 98586",Yes
+"2,434",Martin Luther King Jr. Family Outreach Center,,80,Martin Luther King Jr. Family Outreach Center,8,Community Colleges of Spokane,Non-Profit Organization Building,500 S Stone Street,Spokane,WA,99202,Spokane,9999999999,,,,,40,36,69,"500 S Stone Street
+Spokane, WA 99202
+(47.650844, -117.376693)",No
+"2,169",SWCCC Park Crest Early Learning Center,,,Direct Service Site,14,ESD 112 - Vancouver,Non-Profit Organization Building,712 SE Parkcrest Avenue,Vancouver,WA,98683,Clark,3609523466,,,,,42,36,69,"712 SE Parkcrest Avenue
+Vancouver, WA 98683
+(45.616289, -122.522516)",Yes
+"1,407",EPIC Place,EPIC,,Direct Service Site,11,Enterprise for Progress in the Community,Non-Profit Organization Building,701 Superior Ln,Yakima,WA,98902,Yakima,5092483950,Karri Livingston,karril@epicnet.org,5098956439,5099452960,90,36,69,"701 Superior Ln
+Yakima, WA 98902
+(46.608006, -120.54639)",Yes
+293,Ocean Shores Elementary School,North Beach School District,89,North Beach School District,2,Aberdeen School District,Public school or school district building,300 Mt Olympus Ave SE,Ocean Shores,WA,98569,Grays Harbor,3605378711,Andrew Kelly,akelly@northbeachschools.org,3602895835,,12,36,69,"300 Mt Olympus Ave SE
+Ocean Shores, WA 98569
+(46.977538, -124.155874)",Yes
+299,Olalla,,,Direct Service Site,16,ESD 114 - Olympic ESD,Public school or school district building,6100 Denny Bond Rd. Se,Olalla,WA,98359,Kitsap,3604786889,Olivia Eubanks,oeubanks@oesd114.org,2538574022,,18,36,69,"6100 Denny Bond Rd Se
+Olalla, WA 98359
+(47.432493, -122.571938)",Yes
+"2,260",,,2259,,13,ESD 105 - Yakima,Family Child Care Home,,,WA,98948,Yakima,,,,,,5,36,69,,Yes
+"2,432",Royal City Blossoms,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,431 Cherry Street,Royal City,WA,99357,Grant,5093462449,Jacklyn Esparza,jacklyn.esparza@inspire-centers.org,5098378909,,40,36,69,"431 Cherry Street
+Royal City, WA 99357
+(46.903413, -119.621)",No
+"1,440",Fisher Elementary School,,,Direct Service Site,30,Opportunity Council,Public school or school district building,501 14th St.,Lynden,WA,98264,Whatcom,3603544291,Wendy Beebout,wendy_beebout@oppco.org,3607348396,,27,36,69,"501 14th St
+Lynden, WA 98264
+(48.94471, -122.465417)",Yes
+227,Grantham,,,Direct Service Site,23,Lewis-Clark Early Childhood Program,Public school or school district building,1253 Poplar St,Clarkston,WA,99403,Asotin,5097519890,Brittny Ramirez,bramirez@lcecp.org,5097519890,,38,36,69,"1253 Poplar St
+Clarkston, WA 99403
+(46.418122, -117.057321)",Yes
+"2,342",Theler Center,,,Direct Service Site,16,ESD 114 - Olympic ESD,Public school or school district building,22871 WA-3,Belfair,WA,98528,Mason,3604786860,Kristy Esler,kesler@oesd114.org,3602772391,,30,36,69,"22871 WA
+Belfair, WA 98528",No
+209,Peninsula Evergreen Elementary ECEAP,,98,Peninsula School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,"1820 Key Peninsula Hwy, KPS",Lakebay,WA,98349,Pierce,2535301358,Lisa Reaugh,reaughl@psd401.net,2535301082,,18,36,69,"1820 Key Peninsula Hwy
+KPS Lakebay, WA 98349
+(47.240306, -122.770681)",Yes
+382,Valley School District,Valley Early Learning Center ,129,Valley School District,32,Rural Resources Community Action,Public school or school district building,3030 Huffman Rd,Valley,WA,99181,Stevens,5093543155,Candace Harris,candace.harris@velc.org,5099372638,,24,36,69,"3030 Huffman Rd Valley
+WA 99181
+(48.16988, -117.720443)",Yes
+"1,498",Community Child Care Center Colfax,,,Direct Service Site,7,Community Child Care Center,Public school or school district building,1207 N Morton,Colfax,WA,99111,Whitman,5093349290,Suzanne Bleeker,suzanne@community-childcare.org,5093973335,,20,36,69,"1207 N Morton
+Colfax, WA 99111
+(46.892864, -117.360964)",Yes
+601,Learning Avenues Child Care Centers,LACC,76,Learning Avenues Child Care Centers,10,Educational Opportunities for Children and Families,Faith-Based Facility,5701 MACARTHUR BLVD.,Vancouver,WA,98661,Clark,3605672720,Dorene Brugman,dorene@learningavenues.com,3609069128,3609069127,36,36,69,"5701 MACARTHUR BLVD
+Vancouver, WA 98661
+(45.623525, -122.612396)",Yes
+"2,248",Early Learning Center,,,Direct Service Site,"1,364",ESD 123,Public school or school district building,1315 N 7th Ave,Pasco,WA,99301,Franklin,5095445770,Patricia Garcia,pgarcia@esd123.org,5093805440,,118,36,69,"1315 N 7th Ave
+Pasco, WA 99301
+(46.2398, -119.099375)",Yes
+"2,390",Refugee Womens Alliance at MLK,ReWA-MLK,105,Refugee Women's Alliance,6,City of Seattle ,Child Care Center Including Campus Child Care,4008 M L KING JR WAY S,SEATTLE                ,WA,98108,King,2067210243,Thi Thi Gray,thithi@rewa.org,2067210243,,6,36,69,"4008 M L KING JR WAY S
+SEATTLE, WA 98108",Yes
+344,Tacoma Sheridan Elementary ECEAP,,120,Tacoma School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,5317 Mckinley Avenue,Tacoma,WA,98404,Pierce,2535715927,Pam Stuard,PStuard@Tacoma.K12.Wa.US,2535715927,,38,36,69,"5317 Mckinley Avenue
+Tacoma, WA 98404
+(47.209013, -122.420887)",Yes
+"2,380",Gerber Nancy L,,2379,Little House for Little People,"2,028",Early Learning Child Development Resources,Child Care Center Including Campus Child Care,10303 E Valleyway,Spokane Valley,WA,99206,Spokane,5093155404,Nancy Gerber,grand-nan@comcast.net,5099246534,,3,36,69,"10303 E Valleyway Spokane Valley
+WA 99206",Yes
+"2,378",BURTON MICHELLE L,,2377,Dominion View Daycare,"2,028",Early Learning Child Development Resources,Child Care Center Including Campus Child Care,400 DOMINION VIEW ROAD,Colville,WA,99114,Stevens,5093155404,Michelle Burton,michelleburton1969@outlook.com,5096845415,,3,36,69,"400 DOMINION VIEW ROAD
+Colville, WA 99114
+(48.545264, -117.834105)",Yes
+685,Auburn Main Site,,673,Auburn School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,2234 K St SE,Auburn,WA,98002,King,2539314943,Emily Cauter,ecauter@auburn.wednet.edu,2532889939,,38,36,69,"2234 K St SE
+Auburn, WA 98002
+(47.288277, -122.216011)",Yes
+"2,123",Inspire Development Center - Prosser,,,Direct Service Site,41,Inspire Development Centers,Head Start Facility,1300 Meade Ave,Prosser,WA,99350,Benton,5097816373,Brenda Ramirez,brenda.ramirez@inspire-centers.org,5097816372,,40,36,69,"1300 Meade Ave
+Prosser, WA 99350
+(46.206368, -119.767981)",Yes
+264,Lind Elementary,Lind ECEAP,78,Lind School District,12,ESD 101 - NEW ESD,Public school or school district building,206 W 3rd St,Lind,WA,99341,Adams,5096773481x408,Darrell Lembcke,dlembcke@lrschools.org,5096773481,,11,36,69,"206 W 3rd St
+Lind, WA 99341
+(46.972993, -118.617239)",Yes
+"2,170",CHILDRENS VILLAGE SALMON CRK,,2127,Children's Village,14,ESD 112 - Vancouver,Child Care Center Including Campus Child Care,1900 NE 129TH STREET,VANCOUVER,WA,98686,Clark,3609523364,Angela Benedict,angela@childrensvillageinc.com,3609440123,,18,36,69,"1900 NE 129TH STREET
+VANCOUVER, WA 98686
+(45.714643, -122.652422)",Yes
+"2,029",Chehalis United Methodist Church,,,Direct Service Site,4,Centralia College,Faith-Based Facility,16 S. Market Blvd,Chehalis,WA,98532,Lewis,3606238950,Teresa Schneider,teresa.schneider@centralia.edu,3606238603,,30,36,69,"16 S Market Blvd
+Chehalis, WA 98532
+(46.661226, -122.963452)",Yes
+"2,233",Kid's World,,,Direct Service Site,"1,364",ESD 123,Non-Profit Organization Building,820 N 20th Ave,Pasco,WA,99301,Franklin,5095445770,Patricia Garcia,pgarcia@esd123.org,5093805440,,58,36,69,"820 N 20th Ave
+Pasco, WA 99301
+(46.236652, -119.117417)",Yes
+"1,929",Rainbow Kids 2,RKYakima ECEAP,1928,Rainbow Kidz,13,ESD 105 - Yakima,Child Care Center Including Campus Child Care,1111 swan ave,Yakima,WA,98902,Yakima,5099309979,Rosanna Figueroa,rosannafigueroa1984@yahoo.com,5094525583,,11,36,69,"1111 swan ave
+Yakima, WA 98902
+(46.609505, -120.521337)",Yes
+254,Wenatchee,,,Direct Service Site,5,Chelan-Douglas Child Services Association,Head Start Facility,1305 Kittitas,Wenatchee,WA,98801,Chelan,5096620683x260,Christy Walt,christyw@cdcsa.com,5096635179,,15,36,69,"1305 Kittitas
+Wenatchee, WA 98801
+(47.40564, -120.316485)",Yes
+186,Dayton Elementary School,,,Direct Service Site,9,Dayton School District,Public school or school district building,302 E Park St,Dayton,WA,99328,Columbia,5093822507x247,Brooke Lovgren,brookel@daytonsd.org,5093822507,,18,36,69,"302 E Park St
+Dayton, WA 99328
+(46.317422, -117.976066)",Yes
+212,EPS Madison,,62,Everett Public Schools,36,Snohomish County,Public school or school district building,616 Pecks Dr,Everett,WA,98203,Snohomish,4253855958,Nancy Brown,nbrown2@everettsd.org,4253855958,,40,36,69,"616 Pecks Dr
+Everett, WA 98203
+(47.941857, -122.223913)",Yes
+"2,278",Parkview Early Learning Center,,2277,J&H Childcare LLC,8,Community Colleges of Spokane,Child Care Center Including Campus Child Care,5122 N Division,Spokane,WA,99207,Spokane,5093265610,Whitney Kuhn,pelc.assistant.director@gmail.com,5093265610,,50,36,69,"5122 N Division
+Spokane, WA 99207
+(47.704945, -117.411174)",Yes
+"1,467",Mt. Angeles View HS/EHS/ECEAP,MAV,,Direct Service Site,28,Olympic Community Action Programs,Head Start Facility,2321 S Francis Street,Port Angeles,WA,98362,Clallam,3604524726,Camryn Smith,csmith@olycap.org,3604528496,,10,36,69,"2321 S Francis Street
+Port Angeles, WA 98362
+(48.104394, -123.429407)",Yes
+"2,271",Sunset Ridge,,,Direct Service Site,"2,255",Benton Franklin Head Start,Head Start Facility,6215 BURDEN BLVD,Pasco,WA,99301,Franklin,5097921162,Christena Young,christenay@bfhs.net,5097921162,,20,36,69,"6215 BURDEN BLVD
+Pasco, WA 99301
+(46.270525, -119.171986)",Yes
+369,TCC Early Learning Center,Tacoma Community College,123,TCC Children's Center,17,ESD 121 - Puget Sound ESD,Child Care Center Including Campus Child Care,6501 South 19th Street Bldg #3,Tacoma,WA,98466,Pierce,2535665317,Renee Hernandez-Greenfield,rhernandezgreenfield@tacomacc.edu,2535666020,,24,36,69,"6501 South 19th Street
+Tacoma, WA 98466
+(47.24276, -122.521028)",Yes
+371,Federal Way Thomas Jefferson ECEAP,Thomas Jefferson High School ,64,Federal Way School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,4248 S 288th Street,Auburn,WA,98001,King,2539452379,Shannon Davis,sdavis@fwps.org,2539455716,,40,36,69,"4248 S 288th Street
+Auburn, WA 98001
+(47.343397, -122.278712)",Yes
+170,Tukwila Cascade View Elementary ECEAP,,126,Tukwila School District,17,ESD 121 - Puget Sound ESD,Public school or school district building,13601 - 32nd Ave S,Tukwila,WA,98168,King,2069017743,Terra Dupont,DupontT@tukwila.wednet.edu,2069017743,,40,36,69,"13601 32nd Ave S
+Tukwila, WA 98168
+(47.481614, -122.291819)",Yes
+"2,107",Connell Early Childhood Center,,,Direct Service Site,"1,364",ESD 123,Public school or school district building,110 N Chelan,Connell,WA,99326,Franklin,5095445770,Corina  Flores ,coflores@esd123.org,5093802312,,20,36,69,"110 N Chelan
+Connell, WA 99326",Yes
+"1,442",Spokane Child Development,,1441,Spokane Child Development Center,8,Community Colleges of Spokane,Child Care Center Including Campus Child Care,3120 N Industrial Pk 1st St,Spokane,WA,99216,Spokane,5099242850,Vicki Greger,vickichildrenfirst@ptera.net,5099242850,,21,36,69,"3120 N Industrial Pk 1st St
+Spokane, WA 99216",Yes
+"2,183",McGillivray,,,Direct Service Site,10,Educational Opportunities for Children and Families,Head Start Facility,"2401 SE 161st Court, Suite A",Vancouver,WA,98683,Clark,3608969912,Dana Taub,dana.taub@eocfwa.org,3605671701,,36,36,69,"2401 SE 161st Court
+Suite A Vancouver, WA 98683
+(45.603534, -122.506476)",Yes
+"1,958",Minnehaha Early Learning Center,,,Direct Service Site,14,ESD 112 - Vancouver,Non-Profit Organization Building,4517 NE St. Johns Rd,Vancouver,WA,98661,Clark,3607507500,Lisa MacDonald,lisa.macdonald@selfwa.org,3609523600,,51,36,69,"4517 NE St Johns Rd
+Vancouver, WA 98661
+(45.654767, -122.635998)",Yes
+"2,356",Walla Walla ECEAP Blueridge,,,Direct Service Site,"1,364",ESD 123,Public school or school district building,1150 W. Chestnut Street,Walla Walla,WA,99362,Walla Walla,5095207123,Jenyfer Reese,jreese@wwps.org,5095261781,,99,36,69,"1150 W Chestnut Street
+Walla Walla, WA 99362
+(46.053672, -118.354732)",Yes
+"2,262",Newport Heights Early Learning,,,Direct Service Site,"1,964",Bellevue School District,Public school or school district building,5225 119th Ave SE,Bellevue,WA,98006,King,4254564030,Jennifer Sanislo,sanisloj@bsd405.org,4254565588,,10,36,69,"5225 119th Ave SE
+Bellevue, WA 98006
+(47.555895, -122.179684)",Yes
+679,Ellsworth,,,Direct Service Site,10,Educational Opportunities for Children and Families,Head Start Facility,512 SE ELLSWORTH ROAD,VANCOUVER,WA,98664,Clark,3605672720,Diana Atkinson,diana.atkinson@eocfwa.org,3605670923,,17,36,69,"512 SE ELLSWORTH ROAD
+VANCOUVER, WA 98664
+(45.617046, -122.561262)",Yes
