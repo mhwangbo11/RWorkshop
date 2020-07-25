@@ -1,5 +1,5 @@
 # Workshop
-Workshop files for public use: Created in July - August 2020 for Univ. of WA Cultivate Learning @ College of Education - Innovation Lab Project
+Workshop files for public use: Created in July - September 2020 for Univ. of WA Cultivate Learning @ College of Education - Innovation Lab Project
 
 RMD files created on macOS Catalina ver. 10.15.5 | RStudio ver. 1.3.959
 
