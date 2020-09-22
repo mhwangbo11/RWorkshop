@@ -12,7 +12,7 @@ Below topics are covered during R workshop sessions with Cultivate Learning R en
 * Data Reshape 2: How to change data shape from wide to long data? This is for those who use Tableau on a regular basis and those who would like to utilize replicable practices in R. 
 
 ## Folder Structure
-In each folder, you'll find one of the following folders
+In each folder, you'll find one of the following folders: 
 
 * Document: Contains slides or other resource documentation
 * Source: R codes including RMD file(s) and sometimes HTML & md files
