@@ -1,0 +1,76 @@
+---
+title: "WideToLong_INL_083120"
+author: "Min Hwangbo"
+date: "8/31/2020"
+output:
+  html_document:
+    preserve_yaml: true
+    toc: true
+    toc_float: true
+    keep_md: true
+published: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Step 1: Loading packages - Data reshape
+```{r}
+# Install packages first using install.packages("pacakgename") on your console!
+## Reference: http://www.cookbook-r.com/Manipulating_data/Converting_data_between_wide_and_long_format/ 
+### Inspiration: Dr. Liz Sanders's HLM class
+#### Inspiration II: Chuck Lanfear Intro to R: https://clanfear.github.io/CSSS508/
+
+library("dplyr")  # Data reshaping package
+library("tidyr")  # Data transformation package
+library("readr")  # CSV loading package
+```
+
+
+# Step 2: Loading data
+```{r, msg = F, warning = F}
+data.wide <- read_csv("EvalSTARS_CPD_051320.csv") # Loading data from an excel file
+
+# Quality check descriptive
+head(data.wide, 5) # First five records
+tail(data.wide, 5) # Last five records
+ls(data.wide)   # Vars names
+## Data summary: 112 records / 22 vars - check for null values
+```
+
+# Step 3: Checking `Null` values
+```{r}
+# summary(data.wide) 
+## Data summary: 112 records / 22 vars - check for null values
+sum(is.na(data.wide$`Which training did you participate in?`))
+# 26 records = also happens to be something called "False" from the data set.
+```
+
+# Step 4: Data reshape (`Filter` responses that are considered `finished`)
+```{r}
+data.wide2 <- data.wide %>%
+  filter(Finished == "TRUE")
+
+# Quality check 
+head(data.wide2, 5) # First five records
+tail(data.wide2, 5) # Last five records
+ls(data.wide2)   # Vars names
+```
+
+# Step 5: Data reshape (Wide -> Long)
+* Using `gather` function to consolidate questions into one column. 
+```{r}
+data.long <- gather(data.wide2, question, response, "Please mark only one response per line. - Content provided matched the training description.":"For future training, what topic(s) are you looking for (Select your top three choices) - Child & Youth Development Competency Areas:", factor_key = T)
+
+data.long # Check the data
+head(data.long, 5) # First five
+tail(data.long, 5) # Last five
+```
+
+# Step 6: Saving as a CSV file
+* FileName_ProjectName_MMDDYY(DateCreated)
+```{r}
+# CSV
+write.csv(data.long, "V2STARS_CPD_051320")
+```
