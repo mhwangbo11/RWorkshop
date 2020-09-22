@@ -1,4 +1,4 @@
-# R Workshop? Really?
+# R Workshop? Really? Well sort of... more to come in the future!
 Workshop files for public use: Created in July - September 2020 for Univ. of WA Cultivate Learning @ College of Education - Innovation Lab Project
 RMD files created on macOS Catalina ver. 10.15.5 | R Studio ver. 1.3.959
 
