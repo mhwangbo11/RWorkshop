@@ -11,6 +11,13 @@ Below topics are covered during R workshop sessions with Cultivate Learning R en
 * Data Frame & Data Reshape: Extract variables you need, rename variable names, filter necessary value on the cell(s), and/or, save it as a new data frame then as a csv file.
 * Data Reshape 2: How to change data shape from wide to long data? This is for those who use Tableau on a regular basis and those who would like to utilize replicable practices in R. 
 
+## Folder Structure
+In each folder, you'll find one of the following folders
+
+* Document: Contains slides or other resource documentation
+* Source: R codes including RMD file(s) and sometimes HTML & md files
+* Data: Data transformation folder will have this folder which contains a data set available from a public data source data.wa.gov.
+
 What else should I consider for future workshop topics? Please pull requests or you can also reach out to me via foreverm@uw.edu.
 
 Thanks for reading this!
