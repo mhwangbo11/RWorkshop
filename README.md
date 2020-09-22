@@ -16,7 +16,7 @@ In each folder, you'll find one of the following folders:
 
 * Document: Contains slides or other resource documentation
 * Source: R codes including RMD file(s) and sometimes HTML & md files
-* Data: Data transformation folder will have this folder which contains a data set available from a public data source data.wa.gov.
+* Data: Data transformation folder will have this folder which contains a data set available from a public data source @ data.wa.gov.
 
 What else should I consider for future workshop topics? Please pull requests or you can also reach out to me via foreverm@uw.edu.
 
