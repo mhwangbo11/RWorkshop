@@ -1,6 +1,6 @@
 # R Workshop? Really?
 Workshop files for public use: Created in July - September 2020 for Univ. of WA Cultivate Learning @ College of Education - Innovation Lab Project
-RMD files created on macOS Catalina ver. 10.15.5 | RStudio ver. 1.3.959
+RMD files created on macOS Catalina ver. 10.15.5 | R Studio ver. 1.3.959
 
 ## Background
 As for my professional life, I'm serving within a spectrum of data transformation expert to the laziest person to work on anything... so I decided to utilize what I've seen, read, and learned from my previous experiences (since, well you know, working in an early childhood sector, being data/research scientist/professor is considered a rare kind and you sometimes have to do your work A to Z or as I call in Korean 가(Ga) to 하 (Ha) hahaha.... sigh sorry, I lost you.
