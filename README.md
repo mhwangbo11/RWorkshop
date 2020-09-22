@@ -9,7 +9,7 @@ Below topics are covered during R workshop sessions with Cultivate Learning R en
 
 * Intro to R: R Studio & R Markdown
 * Data Frame & Data Reshape: Extract variables you need, rename variable names, filter necessary value on the cell(s), and/or, save it as a new data frame then as a csv file.
-* Data Reshape 2: How to change data shape from wide to long data? This is for those who use Tableau on a regular basis and those who would like to utilize replicable practices in R. 
+* Data Reshape 2: How to change data shape from wide to long data? This is for those who use Tableau on a regular basis and those who would like to utilize replicable data practices in R for any secondary data analysis. 
 
 ## Folder Structure
 In each folder, you'll find one of the following folders: 
