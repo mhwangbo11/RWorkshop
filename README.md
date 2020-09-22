@@ -21,3 +21,8 @@ In each folder, you'll find one of the following folders:
 What else should I consider for future workshop topics? Please pull requests or you can also reach out to me via foreverm@uw.edu.
 
 Thanks for reading this!
+
+## Future Consideration
+
+* Text Mining!!!
+* Tableau Workshop?!!
