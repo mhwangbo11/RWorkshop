@@ -1,0 +1,93 @@
+---
+title: "WideToLongTableau_INL_112320"
+author: "Min Hwangbo"
+date: "11/23/2020"
+output:
+  html_document:
+    preserve_yaml: true
+    toc: true
+    toc_float: true
+    keep_md: true
+published: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Step 1: Loading packages - Data reshape
+```{r, warning = F, message = F, results = "hide"}
+# Install packages first using install.packages("pacakgename") on your console!
+## Reference: http://www.cookbook-r.com/Manipulating_data/Converting_data_between_wide_and_long_format/ 
+### Inspiration: Dr. Liz Sanders's HLM class
+#### Inspiration II: Chuck Lanfear Intro to R: https://clanfear.github.io/CSSS508/
+
+library("dplyr")  # Data reshaping package
+library("tidyr")  # Data transformation package
+library("readr")  # CSV loading package
+```
+
+
+# Step 2: Loading data
+```{r, msg = F, warning = F}
+data.wide <- read_csv("STARS_PLC_20-21.csv") # Loading data from an excel file
+
+# Quality check descriptive
+head(data.wide, 5) # First five records
+tail(data.wide, 5) # Last five records
+ls(data.wide)   # Vars names
+## Data summary: 25 records / 37 vars
+```
+
+# Step 3a: Changing var names
+* First, we're going to copy information on the 2nd row to the 1st row as Var Names.
+* Second, we're going to delete the duplicate record.
+* Last, we will check the data quality/code accuracy.
+
+```{r}
+names(data.wide) <- data.wide[1,] # Copy 2nd row as var names
+data.wide_1 <- data.wide[-c(1, 2),] # Delete duplicate rows (1st and 2nd)
+
+head(data.wide_1, 5) # First 5 records
+tail(data.wide_1, 5) # Last 5 records
+ls(data.wide_1) # Vars name
+# 23 obs & 37 vars
+```
+
+# Step 3b: Checking `Null` values
+```{r}
+# summary(data.wide) 
+## Data summary: 23 records / 37 vars - check for null values
+sum(is.na(data.wide_1$`Which training did you participate in?`))
+# 0 NULL RECORDS
+```
+
+# Step 3c: Checking finished survey (`FILTER` responses that are considered `finished`)
+```{r}
+data.wide_2 <- data.wide_1 %>%
+  filter(Finished == "True") # Watch out for "True" spelling
+
+# Quality check 
+head(data.wide_2, 5) # First five records
+tail(data.wide_2, 5) # Last five records
+ls(data.wide_2)   # Vars names
+# ALl remains the same: 23 obs, 37 vars
+```
+
+# Step 4: Data reshape (Wide -> Long)
+* Using `gather` function to consolidate questions into one column. 
+```{r}
+data.long <- gather(data.wide_2, question, response, "Q15 - Content provided matched the training description.":"What changes would you suggest to the trainer?", factor_key = T)
+
+data.long # Check the data
+head(data.long, 5) # First five
+tail(data.long, 5) # Last five
+ls(data.long)
+```
+
+# Step 5: Saving as a CSV file
+* FileName_ProjectName_MMDDYY(DateCreated)
+```{r}
+# CSV
+write.csv(data.long, "V2STARS_PLC_20-21.csv")
+```
